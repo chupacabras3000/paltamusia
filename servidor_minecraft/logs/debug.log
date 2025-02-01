@@ -20425,3 +20425,196 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [16:26:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
 [16:27:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
 [16:27:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> per
+[16:28:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[16:28:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[16:29:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> tenes comida?
+[16:29:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> nop
+[16:29:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[16:30:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XDD is bleeding...
+[16:30:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> xd
+[16:30:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> onde
+[16:30:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[16:30:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> en el portal
+[16:30:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: hevilfren123 is bleeding...
+[16:30:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> me cai a la lava
+[16:30:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> pt,
+[16:30:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: hevilfren123 burned to death
+[16:31:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[16:31:14] [Server thread/ERROR] [FML]: Exception caught during firing event net.minecraftforge.event.entity.living.LivingDeathEvent@61c00cd5:
+java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.Arrays$ArrayList.get(Arrays.java:3841) ~[?:1.8.0_432]
+	at net.minecraft.util.NonNullList.get(SourceFile:44) ~[fi.class:?]
+	at net.minecraft.entity.player.InventoryPlayer.func_70304_b(InventoryPlayer.java:546) ~[aec.class:?]
+	at svenhjol.charm.tweaks.feature.UseTotemFromInventory.onPlayerDeath(UseTotemFromInventory.java:39) ~[UseTotemFromInventory.class:1.4.1]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_299_UseTotemFromInventory_onPlayerDeath_LivingDeathEvent.invoke(.dynamic) ~[?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) ~[ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.common.ForgeHooks.onLivingDeath(ForgeHooks.java:615) [ForgeHooks.class:14.23.5.2860]
+	at net.minecraft.entity.player.EntityPlayerMP.func_70645_a(EntityPlayerMP.java:474) [oq.class:?]
+	at com.creativemd.playerrevive.server.PlayerReviveServer.kill(PlayerReviveServer.java:72) [PlayerReviveServer.class:?]
+	at com.creativemd.playerrevive.server.ReviveEventServer.playerTick(ReviveEventServer.java:90) [ReviveEventServer.class:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_416_ReviveEventServer_playerTick_PlayerTickEvent.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPlayerPreTick(FMLCommonHandler.java:365) [FMLCommonHandler.class:?]
+	at net.minecraft.entity.player.EntityPlayer.func_70071_h_(EntityPlayer.java:190) [aed.class:?]
+	at net.minecraft.entity.player.EntityPlayerMP.func_71127_g(EntityPlayerMP.java:382) [oq.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_73660_a(NetHandlerPlayServer.java:173) [pa.class:?]
+	at net.minecraftforge.fml.common.network.handshake.NetworkDispatcher$1.func_73660_a(NetworkDispatcher.java:209) [NetworkDispatcher$1.class:?]
+	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:285) [gw.class:?]
+	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:180) [oz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:790) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+[16:31:14] [Server thread/ERROR] [FML]: Index: 6 Listeners:
+[16:31:14] [Server thread/ERROR] [FML]: 0: HIGHEST
+[16:31:14] [Server thread/ERROR] [FML]: 1: ASM: com.creativemd.playerrevive.server.ReviveEventServer@327578d8 playerDied(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+[16:31:14] [Server thread/ERROR] [FML]: 2: NORMAL
+[16:31:14] [Server thread/ERROR] [FML]: 3: ASM: thedarkcolour.futuremc.event.Events@25714d73 spawnWitherRoseOrDropTrident(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+[16:31:14] [Server thread/ERROR] [FML]: 4: ASM: crafttweaker.mc1120.events.CommonEventHandler@778823c8 onEntityLivingDeathEvent(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+[16:31:14] [Server thread/ERROR] [FML]: 5: ASM: svenhjol.charm.tweaks.feature.ExtraRecords@242b9e23 onDeath(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+[16:31:14] [Server thread/ERROR] [FML]: 6: ASM: svenhjol.charm.tweaks.feature.UseTotemFromInventory@784a27f6 onPlayerDeath(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+[16:31:14] [Server thread/ERROR] [FML]: 7: ASM: svenhjol.charm.world.feature.BatBucket@54afcc8e onDeath(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+[16:31:14] [Server thread/ERROR] [FML]: 8: ASM: net.mcreator.duneons.procedure.ProcedureZombiedaggerEntityDies@139b7c21 onEntityDeath(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+[16:31:14] [Server thread/ERROR] [FML]: 9: ASM: net.mcreator.nocubessrparmory.procedure.ProcedureBossDrops@7582ca7d onEntityDeath(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+[16:31:14] [Server thread/ERROR] [FML]: 10: ASM: com.dhanantry.scapeandrunparasites.util.handlers.SRPEventHandlerBus@34fbb82b playerDeath(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+[16:31:14] [Server thread/ERROR] [FML]: Exception caught during firing event net.minecraftforge.fml.common.gameevent.TickEvent$PlayerTickEvent@38272906:
+java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.Arrays$ArrayList.get(Arrays.java:3841) ~[?:1.8.0_432]
+	at net.minecraft.util.NonNullList.get(SourceFile:44) ~[fi.class:?]
+	at net.minecraft.entity.player.InventoryPlayer.func_70304_b(InventoryPlayer.java:546) ~[aec.class:?]
+	at svenhjol.charm.tweaks.feature.UseTotemFromInventory.onPlayerDeath(UseTotemFromInventory.java:39) ~[UseTotemFromInventory.class:1.4.1]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_299_UseTotemFromInventory_onPlayerDeath_LivingDeathEvent.invoke(.dynamic) ~[?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) ~[ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.common.ForgeHooks.onLivingDeath(ForgeHooks.java:615) ~[ForgeHooks.class:14.23.5.2860]
+	at net.minecraft.entity.player.EntityPlayerMP.func_70645_a(EntityPlayerMP.java:474) ~[oq.class:?]
+	at com.creativemd.playerrevive.server.PlayerReviveServer.kill(PlayerReviveServer.java:72) ~[PlayerReviveServer.class:?]
+	at com.creativemd.playerrevive.server.ReviveEventServer.playerTick(ReviveEventServer.java:90) ~[ReviveEventServer.class:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_416_ReviveEventServer_playerTick_PlayerTickEvent.invoke(.dynamic) ~[?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) ~[ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPlayerPreTick(FMLCommonHandler.java:365) [FMLCommonHandler.class:?]
+	at net.minecraft.entity.player.EntityPlayer.func_70071_h_(EntityPlayer.java:190) [aed.class:?]
+	at net.minecraft.entity.player.EntityPlayerMP.func_71127_g(EntityPlayerMP.java:382) [oq.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_73660_a(NetHandlerPlayServer.java:173) [pa.class:?]
+	at net.minecraftforge.fml.common.network.handshake.NetworkDispatcher$1.func_73660_a(NetworkDispatcher.java:209) [NetworkDispatcher$1.class:?]
+	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:285) [gw.class:?]
+	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:180) [oz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:790) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+[16:31:14] [Server thread/ERROR] [FML]: Index: 11 Listeners:
+[16:31:14] [Server thread/ERROR] [FML]: 0: NORMAL
+[16:31:14] [Server thread/ERROR] [FML]: 1: ASM: class com.oblivioussp.spartanshields.event.EventHandlerCommon onPlayerTick(Lnet/minecraftforge/fml/common/gameevent/TickEvent$PlayerTickEvent;)V
+[16:31:14] [Server thread/ERROR] [FML]: 2: ASM: com.mrcrayfish.obfuscate.common.data.SyncedPlayerData@f489013 onServerTick(Lnet/minecraftforge/fml/common/gameevent/TickEvent$PlayerTickEvent;)V
+[16:31:14] [Server thread/ERROR] [FML]: 3: ASM: com.mrcrayfish.guns.event.CommonEvents@4c6d92fe onPlayerTick(Lnet/minecraftforge/fml/common/gameevent/TickEvent$PlayerTickEvent;)V
+[16:31:14] [Server thread/ERROR] [FML]: 4: ASM: baubles.common.event.EventHandlerEntity@7f753ebc playerTick(Lnet/minecraftforge/fml/common/gameevent/TickEvent$PlayerTickEvent;)V
+[16:31:14] [Server thread/ERROR] [FML]: 5: ASM: crafttweaker.mc1120.events.CommonEventHandler@778823c8 onPlayerTickEvent(Lnet/minecraftforge/fml/common/gameevent/TickEvent$PlayerTickEvent;)V
+[16:31:14] [Server thread/ERROR] [FML]: 6: ASM: svenhjol.charm.brewing.feature.EnderSight@5775ecf9 onPlayerTick(Lnet/minecraftforge/fml/common/gameevent/TickEvent$PlayerTickEvent;)V
+[16:31:14] [Server thread/ERROR] [FML]: 7: ASM: svenhjol.charm.world.feature.SpectreHaunting@6fb4c651 onTick(Lnet/minecraftforge/fml/common/gameevent/TickEvent$PlayerTickEvent;)V
+[16:31:14] [Server thread/ERROR] [FML]: 8: ASM: net.mcreator.nocubessrparmory.procedure.ProcedureRepairKits@44d658ae onPlayerTick(Lnet/minecraftforge/fml/common/gameevent/TickEvent$PlayerTickEvent;)V
+[16:31:14] [Server thread/ERROR] [FML]: 9: ASM: com.dhanantry.scapeandrunparasites.util.handlers.SRPEventHandlerBus@34fbb82b playerTick(Lnet/minecraftforge/fml/common/gameevent/TickEvent$PlayerTickEvent;)V
+[16:31:14] [Server thread/ERROR] [FML]: 10: ASM: xaero.common.events.CommonEvents@3cdd1d4f handlePlayerTickStart(Lnet/minecraftforge/fml/common/gameevent/TickEvent$PlayerTickEvent;)V
+[16:31:14] [Server thread/ERROR] [FML]: 11: ASM: com.creativemd.playerrevive.server.ReviveEventServer@327578d8 playerTick(Lnet/minecraftforge/fml/common/gameevent/TickEvent$PlayerTickEvent;)V
+[16:31:14] [Server thread/ERROR] [FML]: 12: ASM: org.orecruncher.dsurround.server.services.EnvironmentService@6b644da2 tickEvent(Lnet/minecraftforge/fml/common/gameevent/TickEvent$PlayerTickEvent;)V
+[16:31:14] [Server thread/ERROR] [FML]: 13: ASM: com.creativemd.creativecore.common.event.CreativeTickHandler@5640adc5 onEventTick(Lnet/minecraftforge/fml/common/gameevent/TickEvent;)V
+[16:31:14] [Server thread/WARN] [net.minecraft.network.NetworkSystem]: Failed to handle packet for /127.0.0.1:34192
+net.minecraft.util.ReportedException: Ticking player
+	at net.minecraft.entity.player.EntityPlayerMP.func_71127_g(EntityPlayerMP.java:459) ~[oq.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_73660_a(NetHandlerPlayServer.java:173) ~[pa.class:?]
+	at net.minecraftforge.fml.common.network.handshake.NetworkDispatcher$1.func_73660_a(NetworkDispatcher.java:209) ~[NetworkDispatcher$1.class:?]
+	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:285) ~[gw.class:?]
+	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:180) [oz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:790) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.ArrayIndexOutOfBoundsException: -1
+	at java.util.Arrays$ArrayList.get(Arrays.java:3841) ~[?:1.8.0_432]
+	at net.minecraft.util.NonNullList.get(SourceFile:44) ~[fi.class:?]
+	at net.minecraft.entity.player.InventoryPlayer.func_70304_b(InventoryPlayer.java:546) ~[aec.class:?]
+	at svenhjol.charm.tweaks.feature.UseTotemFromInventory.onPlayerDeath(UseTotemFromInventory.java:39) ~[UseTotemFromInventory.class:1.4.1]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_299_UseTotemFromInventory_onPlayerDeath_LivingDeathEvent.invoke(.dynamic) ~[?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) ~[ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) ~[EventBus.class:?]
+	at net.minecraftforge.common.ForgeHooks.onLivingDeath(ForgeHooks.java:615) ~[ForgeHooks.class:14.23.5.2860]
+	at net.minecraft.entity.player.EntityPlayerMP.func_70645_a(EntityPlayerMP.java:474) ~[oq.class:?]
+	at com.creativemd.playerrevive.server.PlayerReviveServer.kill(PlayerReviveServer.java:72) ~[PlayerReviveServer.class:?]
+	at com.creativemd.playerrevive.server.ReviveEventServer.playerTick(ReviveEventServer.java:90) ~[ReviveEventServer.class:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_416_ReviveEventServer_playerTick_PlayerTickEvent.invoke(.dynamic) ~[?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) ~[ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) ~[EventBus.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPlayerPreTick(FMLCommonHandler.java:365) ~[FMLCommonHandler.class:?]
+	at net.minecraft.entity.player.EntityPlayer.func_70071_h_(EntityPlayer.java:190) ~[aed.class:?]
+	at net.minecraft.entity.player.EntityPlayerMP.func_71127_g(EntityPlayerMP.java:382) ~[oq.class:?]
+	... 9 more
+[16:31:14] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: XDD lost connection: Internal server error
+[16:31:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XDD left the game
+[16:31:35] [Server thread/DEBUG] [FML]: Queueing dimension -1 to unload
+[16:31:35] [Server thread/INFO] [FML]: Unloading dimension -1
+[16:31:51] [Server thread/INFO] [FML]: Loading dimension -1 (Venezuela) (net.minecraft.server.dedicated.DedicatedServer@ea1f9f9)
+[16:31:51] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[16:31:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[16:32:24] [Server thread/DEBUG] [FML]: The world 789fbbc8 (Venezuela) may have leaked: first encounter (5 occurrences).
+
+[16:32:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[16:33:14] [Server thread/DEBUG] [FML]: The world 789fbbc8 (Venezuela) may have leaked: seen 10 times.
+
+[16:33:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[16:34:04] [Server thread/DEBUG] [FML]: The world 789fbbc8 (Venezuela) may have leaked: seen 15 times.
+
+[16:34:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[16:34:20] [Server thread/TRACE] [FML]: Handshake channel activating
+[16:34:20] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[16:34:20] [Server thread/DEBUG] [FML]:   Next: HELLO
+[16:34:21] [Netty Epoll Server IO #6/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[16:34:21] [Netty Epoll Server IO #6/INFO] [FML]: Client protocol version 2
+[16:34:21] [Netty Epoll Server IO #6/DEBUG] [FML]: FMLHandshakeServerState: $ModList:41 mods->FMLHandshakeServerState$2:HELLO
+[16:34:21] [Netty Epoll Server IO #6/INFO] [FML]: Client attempting to join with 41 mods : minecraft@1.12.2,nocubessrparmory@3.0.0,usefulbackpacks@1.5.4.85,ctgui@1.0.0,crafttweakerjei@2.0.3,cgm@0.15.3,baubles@1.5.2,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.16.1.1013,futuremc@0.2.6,spartanshields@1.5.5,xaerominimap@25.0.0,mcp@9.42,nocubessrpnests@3.0.0,securitycraft@v1.9.12,artifacts@1.12.2-1.2.4,sereneseasons@1.2.18,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,apexguns@0.1.2,forgelin@1.8.4,foamfixcore@7.7.4,srparasites@1.9.21,uteamcore@2.2.5.339,spartanweaponry@1.6.0,xaerominimap_core@1.12.2-1.0,waila@1.8.26,foamfix@@VERSION@,tlauncher_custom_cape_skin@1.4,traverse@1.6.0,crafttweaker@4.1.20,charm@1.4,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,playerrevive@1.0,orelib@3.6.0.1,dsurround@@VERSION@,overlast@0.0.2,duneons@1.4
+[16:34:21] [Netty Epoll Server IO #6/DEBUG] [FML]:   Next: WAITINGCACK
+[16:34:21] [Netty Epoll Server IO #6/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[16:34:21] [Netty Epoll Server IO #6/DEBUG] [FML]:   Next: COMPLETE
+[16:34:22] [Netty Epoll Server IO #6/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[16:34:22] [Netty Epoll Server IO #6/DEBUG] [FML]:   Next: DONE
+[16:34:22] [Netty Epoll Server IO #6/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[16:34:22] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[16:34:22] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: XDD[/127.0.0.1:34682] logged in with entity id 24509 at (-27.30000001192093, 37.0, 84.30000001192093)
+[16:34:22] [Server thread/INFO] [dsurround]: Player [XDD] connected with Dynamic Surroundings @VERSION@
+[16:34:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XDD joined the game
+[16:34:22] [Server thread/INFO] [Waila]: Player EntityPlayerMP['XDD'/24509, l='Venezuela', x=-27.30, y=37.00, z=84.30] connected. Sending ping
+[16:34:22] [Netty Epoll Server IO #6/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[16:34:41] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[16:34:41] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[16:34:41] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[16:34:54] [Server thread/DEBUG] [FML]: The world 789fbbc8 (Venezuela) may have leaked: seen 20 times.
+
+[16:34:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[16:35:16] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[16:35:35] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[16:35:36] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[16:35:37] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[16:35:37] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[16:35:39] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[16:35:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[16:35:44] [Server thread/DEBUG] [FML]: The world 789fbbc8 (Venezuela) may have leaked: seen 25 times.
+
+[16:35:58] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[16:36:03] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[16:36:03] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[16:36:03] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[16:36:03] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[16:36:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[16:36:34] [Server thread/DEBUG] [FML]: The world 789fbbc8 (Venezuela) may have leaked: seen 30 times.
+
+[16:37:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[16:37:15] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[16:37:24] [Server thread/DEBUG] [FML]: The world 789fbbc8 (Venezuela) may have leaked: seen 35 times.
+
+[16:37:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[16:38:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> chale
