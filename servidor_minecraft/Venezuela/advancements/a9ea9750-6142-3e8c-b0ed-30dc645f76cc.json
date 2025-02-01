@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-02-01 16:23:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2025-02-01 03:48:57 +0000"
@@ -65,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-02-01 16:20:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2025-02-01 03:44:35 +0000"
@@ -92,6 +104,12 @@
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-02-01 04:42:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-02-01 16:21:21 +0000"
     },
     "done": true
   },
@@ -245,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_the_recipe": "2025-02-01 16:21:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2025-02-01 04:18:51 +0000"
@@ -286,6 +310,12 @@
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2025-02-01 03:49:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-02-01 16:20:27 +0000"
     },
     "done": true
   },
@@ -403,6 +433,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-02-01 16:23:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-02-01 03:51:29 +0000"
@@ -502,6 +538,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2025-02-01 04:55:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-02-01 16:23:15 +0000"
     },
     "done": true
   },
@@ -733,9 +775,13 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "wither_skeleton": "2025-02-01 16:24:45 +0000",
+      "magma_cube": "2025-02-01 16:24:48 +0000",
       "vindicator": "2025-02-01 04:15:57 +0000",
       "skeleton": "2025-02-01 03:43:59 +0000",
+      "blaze": "2025-02-01 16:21:45 +0000",
       "zombie": "2025-02-01 03:43:22 +0000",
+      "ghast": "2025-02-01 16:23:41 +0000",
       "creeper": "2025-02-01 04:03:16 +0000"
     },
     "done": false
@@ -743,6 +789,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-02-01 04:55:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-02-01 16:20:06 +0000"
     },
     "done": true
   },
@@ -779,6 +831,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-02-01 03:31:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_gold_nugget": "2025-02-01 16:21:23 +0000"
     },
     "done": true
   },

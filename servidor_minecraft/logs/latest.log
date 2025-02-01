@@ -1,431 +1,431 @@
-[15:11:08] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[15:11:08] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[15:11:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[15:11:08] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
-[15:11:08] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_432, running on Linux:amd64:6.5.0-1025-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
-[15:11:09] [main/INFO] [FML]: Searching /workspaces/paltamusia/servidor_minecraft/./mods for mods
-[15:11:10] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from [1.12.2] SecurityCraft v1.9.12.jar
-[15:11:10] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Charm-1.12.2-1.4.1.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[15:11:10] [main/WARN] [FML]: The coremod svenhjol.charm.base.CharmLoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[15:11:10] [main/WARN] [FML]: The coremod CharmLoadingPlugin (svenhjol.charm.base.CharmLoadingPlugin) is not signed!
-[15:11:10] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CreativeCore_v1.10.71_mc1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[15:11:10] [main/WARN] [FML]: The coremod com.creativemd.creativecore.core.CreativePatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[15:11:10] [main/WARN] [FML]: The coremod CreativePatchingLoader (com.creativemd.creativecore.core.CreativePatchingLoader) is not signed!
-[15:11:10] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from DynamicSurroundings-1.12.2-3.6.3.jar
-[15:11:10] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in foamfix-0.10.15-1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[15:11:10] [main/WARN] [FML]: The coremod pl.asie.foamfix.coremod.FoamFixCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[15:11:10] [main/WARN] [FML]: The coremod Do not report to Forge! (If you haven't disabled the FoamFix coremod, try disabling it in the config! Note that this bit of text will still appear.) (pl.asie.foamfix.coremod.FoamFixCore) is not signed!
-[15:11:10] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Forgelin-1.8.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[15:11:10] [main/WARN] [FML]: The coremod net.shadowfacts.forgelin.preloader.ForgelinPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[15:11:10] [main/WARN] [FML]: The coremod ForgelinPlugin (net.shadowfacts.forgelin.preloader.ForgelinPlugin) is not signed!
-[15:11:10] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Future-MC-0.2.20.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[15:11:10] [main/WARN] [FML]: The coremod FutureMC (thedarkcolour.futuremc.asm.CoreLoader) is not signed!
-[15:11:10] [main/WARN] [FML]: The coremod ObfuscatePlugin (com.mrcrayfish.obfuscate.asm.ObfuscatePlugin) is not signed!
-[15:11:10] [main/INFO] [FML]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine_1.12.2_HD_U_E3.jar
-[15:11:10] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in SereneSeasons-1.12.2-1.2.18-universal.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[15:11:10] [main/WARN] [FML]: The coremod sereneseasons.asm.SSLoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[15:11:10] [main/WARN] [FML]: The coremod SSLoadingPlugin (sereneseasons.asm.SSLoadingPlugin) is not signed!
-[15:11:10] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from SpartanWeaponry-1.12.2-1.6.0.jar
-[15:11:10] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Xaeros_Minimap_25.0.0_Forge_1.12.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[15:11:10] [main/WARN] [FML]: The coremod XaeroMinimapPlugin (xaero.common.core.XaeroMinimapPlugin) is not signed!
-[15:11:10] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[15:11:10] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
-[15:11:10] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8.3 Source=file:/workspaces/paltamusia/servidor_minecraft/./mods/%5B1.12.2%5D%20SecurityCraft%20v1.9.12.jar Service=LaunchWrapper Env=SERVER
-[15:11:10] [main/WARN] [FML]: The coremod SecurityCraftLoadingPlugin (net.geforcemods.securitycraft.SecurityCraftLoadingPlugin) is not signed!
-[15:11:10] [main/INFO] [mixin]: Compatibility level set to JAVA_8
-[15:11:10] [main/WARN] [FML]: The coremod TransformLoader (org.orecruncher.dsurround.mixins.TransformLoader) is not signed!
-[15:11:10] [main/WARN] [FML]: The coremod SpartanWeaponry-MixinLoader (com.oblivioussp.spartanweaponry.mixin.MixinLoader) is not signed!
-[15:11:10] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
-[15:11:10] [main/INFO] [LaunchWrapper]: Loading tweak class name optifine.OptiFineForgeTweaker
-[15:11:10] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
-[15:11:10] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[15:11:10] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[15:11:10] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[15:11:10] [main/INFO] [LaunchWrapper]: Calling tweak class optifine.OptiFineForgeTweaker
-[15:11:10] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
-[15:11:10] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: Forge server detected, skipping class transformer
-[15:11:10] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[15:11:11] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[15:11:11] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[15:11:11] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[15:11:12] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[15:11:12] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[15:11:12] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[15:11:12] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[15:11:12] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
-[15:11:12] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@afb5821
-[15:11:12] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[15:11:12] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[15:11:12] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[15:11:12] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[15:11:12] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[15:11:12] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
-[15:11:12] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[15:11:12] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
-[15:11:12] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: getLaunchArguments
-[15:11:12] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.server.MinecraftServer net.minecraft.server.MinecraftServer
-[15:11:12] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class oq net.minecraft.entity.player.EntityPlayerMP
-[15:11:12] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class pl net.minecraft.server.management.PlayerList
-[15:11:13] [main/INFO] [Meson ASM]: Transforming ItemChorusFruit
-[15:11:13] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [onItemUseFinish, func_77654_b, a] Descriptor (Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/EntityLivingBase;)Lnet/minecraft/item/ItemStack; / (Laip;Lamu;Lvp;)Laip;)
-[15:11:13] [main/INFO] [Meson ASM]: Located method, patching...
-[15:11:13] [main/INFO] [Meson ASM]: Located target IFNE L0
-[15:11:13] [main/INFO] [Meson ASM]: Patch result: true
-[15:11:13] [main/INFO] [mixin]: A re-entrant transformer '$wrapper.svenhjol.charm.base.CharmClassTransformer' was detected and will no longer process meta class data
-[15:11:13] [main/INFO] [mixin]: A re-entrant transformer '$wrapper.thedarkcolour.futuremc.asm.CoreTransformer' was detected and will no longer process meta class data
-[15:11:13] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:101]: Added INTERFACE: pl/asie/foamfix/coremod/patches/IFoamFixWorldRemovable
-[15:11:13] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:141]: Added METHOD: net.minecraft.world.World.foamfix_removeUnloadedEntities
-[15:11:13] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.patches.WorldServerRemovalPatch:apply:57]: Patched updateEntities in net/minecraft/world/WorldServer func_72939_s
-[15:11:13] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class pl net.minecraft.server.management.PlayerList
-[15:11:13] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class aed net.minecraft.entity.player.EntityPlayer
-[15:11:13] [main/INFO] [Meson ASM]: Transforming EntityPlayer
-[15:11:13] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [getArmorVisibility, func_82243_bO, cW] Descriptor ()F / ()F)
-[15:11:13] [main/INFO] [Meson ASM]: Located method, patching...
-[15:11:13] [main/INFO] [Meson ASM]: Located target IINC 1 1
-[15:11:13] [main/INFO] [Meson ASM]: Patch result: true
-[15:11:13] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class aed net.minecraft.entity.player.EntityPlayer
-[15:11:14] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:101]: Added INTERFACE: pl/asie/foamfix/coremod/patches/IFoamFixWorldRemovable
-[15:11:14] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:141]: Added METHOD: net.minecraft.world.World.foamfix_removeUnloadedEntities
-[15:11:14] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[15:11:14] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.state.BlockStateContainer.createState
-[15:11:14] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.block.state.BlockStateContainer.foamfix_mapper
-[15:11:14] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.properties.PropertyEnum.equals
-[15:11:14] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.properties.PropertyEnum.hashCode
-[15:11:14] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.block.properties.PropertyEnum.foamfix_hashCode
-[15:11:14] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.block.properties.PropertyEnum.foamfix_hashCode_calced
-[15:11:14] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.properties.PropertyInteger.hashCode
-[15:11:14] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.block.properties.PropertyInteger.foamfix_hashCode
-[15:11:14] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.block.properties.PropertyInteger.foamfix_hashCode_calced
-[15:11:14] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.properties.PropertyBool.equals
-[15:11:14] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.properties.PropertyBool.hashCode
-[15:11:14] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.tileentity.TileEntity.func_190559_a
-[15:11:14] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.BlockBed.func_189540_a
-[15:11:15] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.patches.GhostBusterBlockStateAccessPatch$FFMethodVisitor:visitMethodInsn:93]: Added ghost buster patch (getBlockState call wrapped) in net/minecraft/block/BlockFarmland func_176530_e (net/minecraft/world/World func_180495_p (Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/block/state/IBlockState;)
-[15:11:15] [main/INFO] [Meson ASM]: Transforming TileEntityFurnace
-[15:11:15] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [smeltItem, func_145949_j, o] Descriptor ()V / ()V)
-[15:11:15] [main/INFO] [Meson ASM]: Located method, patching...
-[15:11:15] [main/INFO] [Meson ASM]: Located target ASTORE 2
-[15:11:15] [main/INFO] [Meson ASM]: Patch result: true
-[15:11:15] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [isItemValidForSlot, func_94041_b, b] Descriptor (ILnet/minecraft/item/ItemStack;)Z / (ILaip;)Z)
-[15:11:15] [main/INFO] [Meson ASM]: Located method, patching...
-[15:11:15] [main/INFO] [Meson ASM]: Located target ILOAD 1
-[15:11:15] [main/INFO] [Meson ASM]: Patch result: true
-[15:11:15] [main/INFO] [Meson ASM]: Transforming TileEntityBeacon
-[15:11:15] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [addEffectsToPlayers, func_146000_x, E] Descriptor ()V / ()V)
-[15:11:15] [main/INFO] [Meson ASM]: Located method, patching...
-[15:11:15] [main/INFO] [Meson ASM]: Located target ALOAD 9
-[15:11:15] [main/INFO] [Meson ASM]: Patch result: true
-[15:11:15] [main/INFO] [Meson ASM]: Transforming EntityWither
-[15:11:15] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [canDestroyBlock, func_181033_a, a] Descriptor (Lnet/minecraft/block/Block;)Z / (Lnet/minecraft/block/Block;)Z)
-[15:11:15] [main/INFO] [Meson ASM]: Failed to locate the method!
-[15:11:15] [main/INFO] [STDOUT]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitTypeInsn:73]: Replaced NEW for net/minecraft/tileentity/TileEntityHopper to pl/asie/foamfix/common/TileEntityFasterHopper
-[15:11:15] [main/INFO] [STDOUT]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitMethodInsn:85]: Replaced INVOKESPECIAL for net/minecraft/tileentity/TileEntityHopper to pl/asie/foamfix/common/TileEntityFasterHopper
-[15:11:15] [main/INFO] [Meson ASM]: Transforming TileEntityShulkerBox
-[15:11:15] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [canInsertItem, func_180462_a, a] Descriptor (ILnet/minecraft/item/ItemStack;Lnet/minecraft/util/EnumFacing;)Z / (ILaip;Lnet/minecraft/util/EnumFacing;)Z)
-[15:11:15] [main/INFO] [Meson ASM]: Failed to locate the method!
-[15:11:15] [main/INFO] [Meson ASM]: Transforming ItemToolMaterial
-[15:11:15] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [getMaxUses, func_77997_a, a] Descriptor ()I / ()I)
-[15:11:15] [main/INFO] [Meson ASM]: Located method, patching...
-[15:11:15] [main/INFO] [Meson ASM]: Located target GETFIELD ain$a.g : I
-[15:11:15] [main/INFO] [Meson ASM]: Patch result: true
-[15:11:15] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [getEfficiency, func_77998_b, b] Descriptor ()F / ()F)
-[15:11:15] [main/INFO] [Meson ASM]: Located method, patching...
-[15:11:15] [main/INFO] [Meson ASM]: Located target GETFIELD ain$a.h : F
-[15:11:15] [main/INFO] [Meson ASM]: Patch result: true
-[15:11:15] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [getAttackDamage, func_78000_c, c] Descriptor ()F / ()F)
-[15:11:15] [main/INFO] [Meson ASM]: Located method, patching...
-[15:11:15] [main/INFO] [Meson ASM]: Located target GETFIELD ain$a.i : F
-[15:11:15] [main/INFO] [Meson ASM]: Patch result: true
-[15:11:15] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [getHarvestLevel, func_77996_d, d] Descriptor ()I / ()I)
-[15:11:15] [main/INFO] [Meson ASM]: Located method, patching...
-[15:11:15] [main/INFO] [Meson ASM]: Located target GETFIELD ain$a.f : I
-[15:11:15] [main/INFO] [Meson ASM]: Patch result: true
-[15:11:15] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [getEnchantability, func_77995_e, e] Descriptor ()I / ()I)
-[15:11:15] [main/INFO] [Meson ASM]: Located method, patching...
-[15:11:15] [main/INFO] [Meson ASM]: Located target GETFIELD ain$a.j : I
-[15:11:15] [main/INFO] [Meson ASM]: Patch result: true
-[15:11:15] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class oq net.minecraft.entity.player.EntityPlayerMP
-[15:11:15] [main/INFO] [Meson ASM]: Transforming ItemChorusFruit
-[15:11:15] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [onItemUseFinish, func_77654_b, a] Descriptor (Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/EntityLivingBase;)Lnet/minecraft/item/ItemStack; / (Laip;Lamu;Lvp;)Laip;)
-[15:11:15] [main/INFO] [Meson ASM]: Located method, patching...
-[15:11:15] [main/INFO] [Meson ASM]: Located target IFNE L0
-[15:11:15] [main/INFO] [Meson ASM]: Patch result: true
-[15:11:16] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:101]: Added INTERFACE: pl/asie/foamfix/api/IFoamFixMobSpawnerLogic
-[15:11:16] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.tileentity.MobSpawnerBaseLogic.func_98279_f
-[15:11:16] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.tileentity.MobSpawnerBaseLogic.foamfix_activatedCache
-[15:11:16] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.tileentity.MobSpawnerBaseLogic.foamfix_activatedCachePESize
-[15:11:16] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.tileentity.MobSpawnerBaseLogic.foamfix_activatedCacheTime
-[15:11:16] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.tileentity.MobSpawnerBaseLogic.foamfix_forcedCache
-[15:11:16] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.tileentity.MobSpawnerBaseLogic.foamfix_forcedCacheTime
-[15:11:17] [main/INFO] [Meson ASM]: Transforming ContainerFurnace
-[15:11:17] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [<init>, <init>, ] Descriptor (Lnet/minecraft/entity/player/InventoryPlayer;Lnet/minecraft/inventory/IInventory;)V / (Laec;Ltv;)V)
-[15:11:17] [main/INFO] [Meson ASM]: Located method, patching...
-[15:11:17] [main/INFO] [Meson ASM]: Located target NEW agr
-[15:11:17] [main/INFO] [Meson ASM]: Patch result: true
-[15:11:17] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [<init>, <init>, ] Descriptor (Lnet/minecraft/entity/player/InventoryPlayer;Lnet/minecraft/inventory/IInventory;)V / (Laec;Ltv;)V)
-[15:11:17] [main/INFO] [Meson ASM]: Located method, patching...
-[15:11:17] [main/INFO] [Meson ASM]: Located target INVOKESPECIAL agr.<init> (Ltv;III)V
-[15:11:17] [main/INFO] [Meson ASM]: Patch result: true
-[15:11:17] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class bfc net.minecraft.world.storage.SaveFormatOld
-[15:11:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
-[15:11:17] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
-[15:11:17] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[15:11:17] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[15:11:17] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
-[15:11:17] [Server thread/INFO] [FML]: Searching /workspaces/paltamusia/servidor_minecraft/./mods for mods
-[15:11:18] [Server thread/WARN] [FML]: Mod securitycraft is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version v1.9.12
-[15:11:18] [Server thread/INFO] [FML]: Disabling mod ctgui it is client side only.
-[15:11:19] [Server thread/INFO] [FML]: Forge Mod Loader has identified 39 mods to load
-[15:11:19] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
-[15:11:19] [Server thread/WARN] [FML]: Missing English translation for crafttweakerjei: assets/crafttweakerjei/lang/en_us.lang
-[15:11:19] [Server thread/WARN] [FML]: Missing English translation for foamfix: assets/foamfix/lang/en_us.lang
-[15:11:19] [Server thread/WARN] [FML]: Missing English translation for forgelin: assets/forgelin/lang/en_us.lang
-[15:11:19] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, xaerominimap_core, foamfixcore, obfuscate, securitycraft, apexguns, artifacts, baubles, charm, crafttweaker, crafttweakerjei, creativecore, duneons, dsurround, foamfix, forgelin, futuremc, cgm, waila, jei, lostcities, nocubessrparmory, nocubessrpnests, nocubessrpsurvival, overlast, playerrevive, sereneseasons, spartanshields, spartanweaponry, srparasites, traverse, uteamcore, usefulbackpacks, xaerominimap, orelib] at CLIENT
-[15:11:19] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, xaerominimap_core, foamfixcore, obfuscate, securitycraft, apexguns, artifacts, baubles, charm, crafttweaker, crafttweakerjei, creativecore, duneons, dsurround, foamfix, forgelin, futuremc, cgm, waila, jei, lostcities, nocubessrparmory, nocubessrpnests, nocubessrpsurvival, overlast, playerrevive, sereneseasons, spartanshields, spartanweaponry, srparasites, traverse, uteamcore, usefulbackpacks, xaerominimap, orelib] at SERVER
-[15:11:20] [Server thread/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.network.PacketBuffer.func_180714_a
-[15:11:20] [Server thread/INFO] [Meson ASM]: Transforming BrewingRecipeRegistry
-[15:11:20] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [isValidInput, isValidInput, ] Descriptor (Lnet/minecraft/item/ItemStack;)Z / (Laip;)Z)
-[15:11:20] [Server thread/INFO] [Meson ASM]: Located method, patching...
-[15:11:20] [Server thread/INFO] [Meson ASM]: Located target IF_ICMPEQ L0
-[15:11:20] [Server thread/INFO] [Meson ASM]: Patch result: true
-[15:11:21] [Server thread/WARN] [dsurround]: Invalid fingerprint detected!
-[15:11:22] [Server thread/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class axw net.minecraft.world.chunk.Chunk
-[15:11:22] [Server thread/INFO] [STDOUT]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitTypeInsn:73]: Replaced NEW for net/minecraft/util/ClassInheritanceMultiMap to pl/asie/foamfix/coremod/common/FoamyClassInheritanceMultiMap
-[15:11:22] [Server thread/INFO] [STDOUT]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitMethodInsn:85]: Replaced INVOKESPECIAL for net/minecraft/util/ClassInheritanceMultiMap to pl/asie/foamfix/coremod/common/FoamyClassInheritanceMultiMap
-[15:11:22] [Server thread/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.block.state.BlockStateContainer$Builder, but received non-empty
-[15:11:22] [Server thread/INFO] [STDOUT]: [pl.asie.foamfix.coremod.patches.GhostBusterDefinitionPatch:apply:136]: Added ghost buster patch (radius = 4) in net/minecraftforge/fluids/BlockFluidClassic func_180650_b
-[15:11:23] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
-[15:11:23] [Server thread/INFO] [FML]: Found 1959 ObjectHolder annotations
-[15:11:23] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
-[15:11:23] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
-[15:11:24] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[15:11:24] [Forge Version Check/INFO] [forge.VersionCheck]: [orelib] Starting version check at https://raw.githubusercontent.com/OreCruncher/OreLib/master/version.json
-[15:11:24] [Server thread/INFO] [Obfuscate]: Successfully injected SyncedPlayerData capability
-[15:11:24] [Forge Version Check/INFO] [forge.VersionCheck]: [orelib] Found status: UP_TO_DATE Target: null
-[15:11:24] [Forge Version Check/INFO] [forge.VersionCheck]: [artifacts] Starting version check at https://raw.githubusercontent.com/ochotonida/artifacts/1.12/update.json
-[15:11:24] [Forge Version Check/INFO] [forge.VersionCheck]: [artifacts] Found status: AHEAD Target: null
-[15:11:24] [Forge Version Check/INFO] [forge.VersionCheck]: [crafttweaker] Starting version check at https://updates.blamejared.com/get?n=crafttweaker&gv=1.12.2
-[15:11:25] [Forge Version Check/INFO] [forge.VersionCheck]: [crafttweaker] Found status: BETA Target: null
-[15:11:25] [Forge Version Check/INFO] [forge.VersionCheck]: [uteamcore] Starting version check at https://api.u-team.info/update/uteamcore.json
-[15:11:25] [Forge Version Check/INFO] [forge.VersionCheck]: [uteamcore] Found status: UP_TO_DATE Target: null
-[15:11:25] [Forge Version Check/INFO] [forge.VersionCheck]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[15:11:25] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.mrcrayfish.guns.event.CommonEvents
-[15:11:25] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.mrcrayfish.guns.event.CommonEvents
-[15:11:25] [Server thread/INFO] [apexguns]: Started loading config. 
-[15:11:25] [Server thread/INFO] [apexguns]: Finished loading config. 
-[15:11:25] [Forge Version Check/INFO] [forge.VersionCheck]: [securitycraft] Found status: UP_TO_DATE Target: null
-[15:11:25] [Forge Version Check/INFO] [forge.VersionCheck]: [usefulbackpacks] Starting version check at https://api.u-team.info/update/usefulbackpacks.json
-[15:11:25] [Forge Version Check/INFO] [forge.VersionCheck]: [usefulbackpacks] Found status: UP_TO_DATE Target: null
-[15:11:25] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[15:11:25] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
-[15:11:25] [Server thread/INFO] [Meson]: Configuring feature GunpowderBlock
-[15:11:25] [Server thread/INFO] [Meson]: Configuring feature RedstoneSand
-[15:11:25] [Server thread/INFO] [Meson]: Configuring feature VariableRedstoneLamp
-[15:11:25] [Server thread/INFO] [Meson]: Configuring feature Coffee
-[15:11:25] [Server thread/INFO] [Meson]: Configuring feature Decay
-[15:11:25] [Server thread/INFO] [Meson]: Configuring feature EnderSight
-[15:11:25] [Server thread/INFO] [Meson]: Configuring feature FlavoredCake
-[15:11:25] [Server thread/INFO] [Meson]: Configuring feature PoisonousPotatoBrew
-[15:11:25] [Server thread/INFO] [Meson]: Configuring feature Barrel
-[15:11:25] [Server thread/INFO] [Meson]: Configuring feature BookshelfChest
-[15:11:25] [Server thread/INFO] [Meson]: Configuring feature Composter
-[15:11:25] [Server thread/INFO] [Meson]: Configuring feature Crate
-[15:11:25] [Server thread/INFO] [Meson]: Configuring feature EnderPearlBlock
-[15:11:25] [Server thread/INFO] [Meson]: Configuring feature Lantern
-[15:11:25] [Server thread/INFO] [Meson]: Configuring feature RottenFleshBlock
-[15:11:25] [Server thread/INFO] [Meson]: Configuring feature SmoothGlowstone
-[15:11:25] [Server thread/INFO] [Meson]: Configuring feature SuspiciousSoup
-[15:11:25] [Server thread/INFO] [Meson]: Configuring feature CurseBreak
-[15:11:25] [Server thread/INFO] [Meson]: Configuring feature ExtraCurses
-[15:11:25] [Server thread/INFO] [Meson]: Configuring feature Homing
-[15:11:25] [Server thread/INFO] [Meson]: Configuring feature Magnetic
-[15:11:25] [Server thread/INFO] [Meson]: Configuring feature Salvage
-[15:11:25] [Server thread/INFO] [Meson]: Configuring feature DecreaseRepairCost
-[15:11:25] [Server thread/INFO] [Meson]: Configuring feature ExtendTotemOfReturning
-[15:11:25] [Server thread/INFO] [Meson]: Configuring feature ExtractBookXP
-[15:11:25] [Server thread/INFO] [Meson]: Configuring feature ExtractEnchantments
-[15:11:25] [Server thread/INFO] [Meson]: Configuring feature TallowIncreasesDurability
-[15:11:25] [Server thread/INFO] [Meson]: Configuring feature CactusWater
-[15:11:25] [Server thread/INFO] [Meson]: Configuring feature CauldronWaterSource
-[15:11:25] [Server thread/INFO] [Meson]: Configuring feature CompassBinding
-[15:11:25] [Server thread/INFO] [Meson]: Configuring feature DispensersUseAnyBow
-[15:11:25] [Server thread/INFO] [Meson]: Configuring feature ExtraRecords
-[15:11:25] [Server thread/INFO] [Meson]: Configuring feature FurnacesRecycleMore
-[15:11:25] [Server thread/INFO] [Meson]: Configuring feature GoldToolImprovements
-[15:11:25] [Server thread/INFO] [Meson]: Configuring feature LeatherArmorInvisibility
-[15:11:25] [Server thread/INFO] [Meson]: Configuring feature PickaxesBreakPistons
-[15:11:25] [Server thread/INFO] [Meson]: Configuring feature RandomAnimalTextures
-[15:11:25] [Server thread/INFO] [Meson]: Configuring feature RecordsStopBackgroundMusic
-[15:11:25] [Server thread/INFO] [Meson]: Configuring feature RemoveNitwits
-[15:11:25] [Server thread/INFO] [Meson]: Configuring feature RestrictFurnaceInput
-[15:11:25] [Server thread/INFO] [Meson]: Configuring feature ShearedMelons
-[15:11:25] [Server thread/INFO] [Meson]: Configuring feature SpongesReduceFallDamage
-[15:11:25] [Server thread/INFO] [Meson]: Configuring feature StackableEnchantedBooks
-[15:11:25] [Server thread/INFO] [Meson]: Configuring feature StackableMilkBuckets
-[15:11:25] [Server thread/INFO] [Meson]: Configuring feature StackablePotions
-[15:11:25] [Server thread/INFO] [Meson]: Configuring feature TamedAnimalsHealing
-[15:11:25] [Server thread/INFO] [Meson]: Configuring feature TamedAnimalsNoDamage
-[15:11:25] [Server thread/INFO] [Meson]: Configuring feature UseTotemFromInventory
-[15:11:25] [Server thread/INFO] [Meson]: Configuring feature WaterInHotBiomes
-[15:11:25] [Server thread/INFO] [Meson]: Configuring feature WitchesDropDecay
-[15:11:25] [Server thread/INFO] [Meson]: Configuring feature WitchesDropLuck
-[15:11:25] [Server thread/INFO] [Meson]: Configuring feature WitchHatProtection
-[15:11:25] [Server thread/INFO] [Meson]: Configuring feature AbandonedCrates
-[15:11:25] [Server thread/INFO] [Meson]: Configuring feature BatBucket
-[15:11:25] [Server thread/INFO] [Meson]: Configuring feature ChargedEmeralds
-[15:11:25] [Server thread/INFO] [Meson]: Configuring feature EndermitePowder
-[15:11:25] [Server thread/INFO] [Meson]: Configuring feature EndPortalRunes
-[15:11:25] [Server thread/INFO] [Meson]: Configuring feature IllusionersInRoofedForest
-[15:11:25] [Server thread/INFO] [Meson]: Configuring feature Moonstone
-[15:11:25] [Server thread/INFO] [Meson]: Configuring feature MoreVillageBiomes
-[15:11:25] [Server thread/INFO] [Meson]: Configuring feature NetherGoldDeposits
-[15:11:25] [Server thread/INFO] [Meson]: Configuring feature Spectre
-[15:11:25] [Server thread/INFO] [Meson]: Configuring feature SpectreHaunting
-[15:11:25] [Server thread/INFO] [Meson]: Configuring feature StructureMaps
-[15:11:25] [Server thread/INFO] [Meson]: Configuring feature SwampHutDecorations
-[15:11:25] [Server thread/INFO] [Meson]: Configuring feature TotemOfReturning
-[15:11:25] [Server thread/INFO] [Meson]: Configuring feature TotemOfShielding
-[15:11:25] [Server thread/INFO] [Meson]: Configuring feature VillageDecorations
-[15:11:25] [Server thread/INFO] [Meson]: Configuring feature VillagerTrades
-[15:11:25] [Server thread/INFO] [Meson]: Configuring feature VindicatorsInRoofedForest
-[15:11:25] [Server thread/INFO] [Meson]: Starting module CharmAutomation
-[15:11:25] [Server thread/INFO] [Meson]: Starting feature GunpowderBlock
-[15:11:25] [Server thread/INFO] [Meson]: Starting feature RedstoneSand
-[15:11:25] [Server thread/INFO] [Meson]: Starting feature VariableRedstoneLamp
-[15:11:25] [Server thread/INFO] [Meson]: Starting module CharmBrewing
-[15:11:25] [Server thread/INFO] [Meson]: Starting feature Coffee
-[15:11:25] [Server thread/INFO] [Meson]: Starting feature Decay
-[15:11:25] [Server thread/INFO] [Meson]: Starting feature EnderSight
-[15:11:25] [Server thread/INFO] [Meson]: Starting feature FlavoredCake
-[15:11:25] [Server thread/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.client.renderer.block.model.ModelResourceLocation.<init>
-[15:11:25] [Server thread/INFO] [Meson]: Starting feature PoisonousPotatoBrew
-[15:11:25] [Server thread/INFO] [Meson]: Starting module CharmCrafting
-[15:11:25] [Server thread/INFO] [Meson]: Starting feature Barrel
-[15:11:25] [Server thread/INFO] [Meson]: Starting feature BookshelfChest
-[15:11:25] [Server thread/INFO] [Meson]: Starting feature Crate
-[15:11:25] [Server thread/INFO] [Meson]: Starting feature EnderPearlBlock
-[15:11:25] [Server thread/INFO] [Meson]: Starting feature Lantern
-[15:11:25] [Server thread/INFO] [Meson]: Starting feature RottenFleshBlock
-[15:11:25] [Server thread/INFO] [Meson]: Starting feature SmoothGlowstone
-[15:11:25] [Server thread/INFO] [Meson]: Starting feature SuspiciousSoup
-[15:11:25] [Server thread/INFO] [Meson]: Starting module CharmEnchanting
-[15:11:25] [Server thread/INFO] [Meson]: Starting feature CurseBreak
-[15:11:25] [Server thread/INFO] [Meson]: Starting feature ExtraCurses
-[15:11:25] [Server thread/INFO] [Meson]: Starting feature Homing
-[15:11:25] [Server thread/INFO] [Meson]: Starting feature Magnetic
-[15:11:25] [Server thread/INFO] [Meson]: Starting feature Salvage
-[15:11:25] [Server thread/INFO] [Meson]: Starting module CharmSmithing
-[15:11:25] [Server thread/INFO] [Meson]: Starting feature DecreaseRepairCost
-[15:11:25] [Server thread/INFO] [Meson]: Starting feature ExtendTotemOfReturning
-[15:11:25] [Server thread/INFO] [Meson]: Starting feature ExtractBookXP
-[15:11:25] [Server thread/INFO] [Meson]: Starting feature ExtractEnchantments
-[15:11:25] [Server thread/INFO] [Meson]: Starting module CharmTweaks
-[15:11:25] [Server thread/INFO] [Meson]: Starting feature CactusWater
-[15:11:25] [Server thread/INFO] [Meson]: Starting feature CauldronWaterSource
-[15:11:25] [Server thread/INFO] [Meson]: Starting feature CompassBinding
-[15:11:25] [Server thread/INFO] [Meson]: Starting feature DispensersUseAnyBow
-[15:11:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `dispenser`, expected `charm`. This could be a intended override, but in most cases indicates a broken mod.
-[15:11:25] [Server thread/INFO] [Meson]: Starting feature ExtraRecords
-[15:11:25] [Server thread/INFO] [Meson]: Starting feature FurnacesRecycleMore
-[15:11:25] [Server thread/INFO] [Meson]: Starting feature GoldToolImprovements
-[15:11:25] [Server thread/INFO] [Meson]: Starting feature LeatherArmorInvisibility
-[15:11:25] [Server thread/INFO] [Meson]: Starting feature PickaxesBreakPistons
-[15:11:25] [Server thread/INFO] [Meson]: Starting feature RandomAnimalTextures
-[15:11:25] [Server thread/INFO] [Meson]: Starting feature RecordsStopBackgroundMusic
-[15:11:25] [Server thread/INFO] [Meson]: Starting feature RemoveNitwits
-[15:11:25] [Server thread/INFO] [Meson]: Starting feature RestrictFurnaceInput
-[15:11:25] [Server thread/INFO] [Meson]: Starting feature ShearedMelons
-[15:11:25] [Server thread/INFO] [Meson]: Starting feature SpongesReduceFallDamage
-[15:11:25] [Server thread/INFO] [Meson]: Starting feature StackableEnchantedBooks
-[15:11:25] [Server thread/INFO] [Meson]: Starting feature StackableMilkBuckets
-[15:11:25] [Server thread/INFO] [Meson]: Starting feature StackablePotions
-[15:11:25] [Server thread/INFO] [Meson]: Starting feature TamedAnimalsHealing
-[15:11:25] [Server thread/INFO] [Meson]: Starting feature TamedAnimalsNoDamage
-[15:11:25] [Server thread/INFO] [Meson]: Starting feature UseTotemFromInventory
-[15:11:25] [Server thread/INFO] [Meson]: Starting feature WaterInHotBiomes
-[15:11:25] [Server thread/INFO] [Meson]: Starting feature WitchesDropDecay
-[15:11:25] [Server thread/INFO] [Meson]: Starting feature WitchesDropLuck
-[15:11:25] [Server thread/INFO] [Meson]: Starting module CharmWorld
-[15:11:25] [Server thread/INFO] [Meson]: Starting feature AbandonedCrates
-[15:11:25] [Server thread/INFO] [Meson]: Starting feature BatBucket
-[15:11:25] [Server thread/INFO] [Meson]: Starting feature ChargedEmeralds
-[15:11:26] [Server thread/INFO] [Meson]: Starting feature EndermitePowder
-[15:11:26] [Server thread/INFO] [Meson]: Starting feature IllusionersInRoofedForest
-[15:11:26] [Server thread/INFO] [Meson]: Starting feature Moonstone
-[15:11:26] [Server thread/INFO] [Meson]: Starting feature MoreVillageBiomes
-[15:11:26] [Server thread/INFO] [Meson ASM]: Transforming StructureVillagePieces$Village
-[15:11:26] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [biomeDoor, func_189925_i, i] Descriptor ()Lnet/minecraft/block/BlockDoor; / ()Laqa;)
-[15:11:26] [Server thread/INFO] [Meson ASM]: Located method, patching...
-[15:11:26] [Server thread/INFO] [Meson ASM]: Located target ALOAD 0
-[15:11:26] [Server thread/INFO] [Meson ASM]: Patch result: true
-[15:11:26] [Server thread/INFO] [Meson ASM]: Transforming StructureStart
-[15:11:26] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [generateStructure, func_75068_a, a] Descriptor (Lnet/minecraft/world/World;Ljava/util/Random;Lnet/minecraft/world/gen/structure/StructureBoundingBox;)V / (Lamu;Ljava/util/Random;Lbbg;)V)
-[15:11:26] [Server thread/INFO] [Meson ASM]: Located method, patching...
-[15:11:26] [Server thread/INFO] [Meson ASM]: Located target INVOKEVIRTUAL bbx.a (Lamu;Ljava/util/Random;Lbbg;)Z
-[15:11:26] [Server thread/INFO] [Meson ASM]: Patch result: true
-[15:11:26] [Server thread/INFO] [Meson]: Starting feature NetherGoldDeposits
-[15:11:26] [Server thread/INFO] [Meson]: Starting feature Spectre
-[15:11:26] [Server thread/INFO] [Meson]: Starting feature SpectreHaunting
-[15:11:26] [Server thread/INFO] [Meson]: Starting feature StructureMaps
-[15:11:26] [Server thread/INFO] [Meson]: Starting feature SwampHutDecorations
-[15:11:26] [Server thread/INFO] [Meson]: Starting feature TotemOfReturning
-[15:11:26] [Server thread/INFO] [Meson]: Starting feature TotemOfShielding
-[15:11:26] [Server thread/INFO] [Meson]: Starting feature VillageDecorations
-[15:11:26] [Server thread/INFO] [Meson]: Starting feature VillagerTrades
-[15:11:26] [Server thread/INFO] [Meson]: Starting feature VindicatorsInRoofedForest
-[15:11:26] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `season_sensor`, expected `sereneseasons`. This could be a intended override, but in most cases indicates a broken mod.
-[15:11:26] [Server thread/INFO] [orelib]: Loading language resources [orelib:en_us]
-[15:11:26] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$profiles::PATH]
-[15:11:26] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$commands::PATH]
-[15:11:26] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$commands$calc::PATH]
-[15:11:26] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$commands$ds::PATH]
-[15:11:26] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$speechbubbles::PATH]
-[15:11:26] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$player::PATH]
-[15:11:26] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$sound::PATH]
-[15:11:26] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$effects::PATH]
-[15:11:26] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$biomes::PATH]
-[15:11:26] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$aurora::PATH]
-[15:11:26] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$general::PATH]
-[15:11:26] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$fog::PATH]
-[15:11:26] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$rain::PATH]
-[15:11:26] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$logging::PATH]
-[15:11:26] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$asm::PATH]
-[15:11:26] [Server thread/INFO] [orelib]: Loading language resources [dsurround:en_us]
-[15:11:26] [Server thread/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraftforge.common.property.ExtendedBlockState.createState
-[15:11:26] [Server thread/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraftforge.common.property.ExtendedBlockState.foamfix_mapper
-[15:11:26] [Server thread/INFO] [foamfix]: Removing LaunchWrapper package manifest map...
-[15:11:27] [Server thread/INFO] [srparasites]: [MOD COMPATIBILITY] Checked for 2 mods that may be in the list that need patches or alternative code
-[15:11:27] [Server thread/INFO] [Spartan Shields]: Starting up Spartan Shields!
-[15:11:27] [Server thread/INFO] [Spartan Weaponry]: Starting up Spartan Weaponry!
-[15:11:27] [Server thread/INFO] [Spartan Weaponry]: API: Loaded internal method handler. API functionality should work now!
-[15:11:27] [Server thread/INFO] [Spartan Weaponry]: Defined config version: 2.0 - Loaded config version: 2.0
-[15:11:28] [Server thread/INFO] [FML]: Applying holder lookups
-[15:11:28] [Server thread/INFO] [FML]: Holder lookups applied
-[15:11:28] [Server thread/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class brs net.minecraft.client.model.ModelRenderer
-[15:11:29] [Server thread/INFO] [Spartan Shields]: Items Registered!
-[15:11:29] [Server thread/INFO] [Spartan Weaponry]: Registering 10 modded material based weapons
-[15:11:29] [Server thread/INFO] [Spartan Weaponry]: Adding weapons for materials: Copper, Tin, Bronze, Steel, Silver, Invar, Platinum, Electrum, Nickel, Lead
-[15:11:29] [Server thread/INFO] [Spartan Weaponry]: Items Registered!
-[15:11:29] [Server thread/INFO] [FML]: Applying holder lookups
-[15:11:29] [Server thread/INFO] [FML]: Holder lookups applied
-[15:11:29] [Server thread/INFO] [Spartan Weaponry]: Registering Enchantments!
-[15:11:29] [Server thread/INFO] [Spartan Weaponry]: Registering entities!
-[15:11:30] [Server thread/INFO] [FML]: Applying holder lookups
-[15:11:30] [Server thread/INFO] [FML]: Holder lookups applied
-[15:11:30] [Server thread/INFO] [FML]: Applying holder lookups
-[15:11:30] [Server thread/INFO] [FML]: Holder lookups applied
-[15:11:30] [Server thread/INFO] [FML]: Injecting itemstacks
-[15:11:30] [Server thread/INFO] [FML]: Itemstack injection complete
-[15:11:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
-[15:11:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
-[15:11:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
-[15:11:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
-[15:11:30] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
-[15:11:30] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[15:11:30] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
-[15:11:30] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[15:11:30] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
-[15:11:30] [Server thread/ERROR] [FML]: Parsing error loading recipe duneons:paintingdun
+[16:18:04] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[16:18:04] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[16:18:04] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[16:18:04] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[16:18:04] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_432, running on Linux:amd64:6.5.0-1025-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[16:18:04] [main/INFO] [FML]: Searching /workspaces/paltamusia/servidor_minecraft/./mods for mods
+[16:18:04] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from [1.12.2] SecurityCraft v1.9.12.jar
+[16:18:04] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Charm-1.12.2-1.4.1.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[16:18:04] [main/WARN] [FML]: The coremod svenhjol.charm.base.CharmLoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[16:18:04] [main/WARN] [FML]: The coremod CharmLoadingPlugin (svenhjol.charm.base.CharmLoadingPlugin) is not signed!
+[16:18:04] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CreativeCore_v1.10.71_mc1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[16:18:04] [main/WARN] [FML]: The coremod com.creativemd.creativecore.core.CreativePatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[16:18:04] [main/WARN] [FML]: The coremod CreativePatchingLoader (com.creativemd.creativecore.core.CreativePatchingLoader) is not signed!
+[16:18:04] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from DynamicSurroundings-1.12.2-3.6.3.jar
+[16:18:04] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in foamfix-0.10.15-1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[16:18:04] [main/WARN] [FML]: The coremod pl.asie.foamfix.coremod.FoamFixCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[16:18:04] [main/WARN] [FML]: The coremod Do not report to Forge! (If you haven't disabled the FoamFix coremod, try disabling it in the config! Note that this bit of text will still appear.) (pl.asie.foamfix.coremod.FoamFixCore) is not signed!
+[16:18:04] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Forgelin-1.8.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[16:18:04] [main/WARN] [FML]: The coremod net.shadowfacts.forgelin.preloader.ForgelinPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[16:18:04] [main/WARN] [FML]: The coremod ForgelinPlugin (net.shadowfacts.forgelin.preloader.ForgelinPlugin) is not signed!
+[16:18:04] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Future-MC-0.2.20.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[16:18:04] [main/WARN] [FML]: The coremod FutureMC (thedarkcolour.futuremc.asm.CoreLoader) is not signed!
+[16:18:04] [main/WARN] [FML]: The coremod ObfuscatePlugin (com.mrcrayfish.obfuscate.asm.ObfuscatePlugin) is not signed!
+[16:18:04] [main/INFO] [FML]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine_1.12.2_HD_U_E3.jar
+[16:18:04] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in SereneSeasons-1.12.2-1.2.18-universal.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[16:18:04] [main/WARN] [FML]: The coremod sereneseasons.asm.SSLoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[16:18:04] [main/WARN] [FML]: The coremod SSLoadingPlugin (sereneseasons.asm.SSLoadingPlugin) is not signed!
+[16:18:04] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from SpartanWeaponry-1.12.2-1.6.0.jar
+[16:18:04] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Xaeros_Minimap_25.0.0_Forge_1.12.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[16:18:04] [main/WARN] [FML]: The coremod XaeroMinimapPlugin (xaero.common.core.XaeroMinimapPlugin) is not signed!
+[16:18:04] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[16:18:04] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[16:18:04] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8.3 Source=file:/workspaces/paltamusia/servidor_minecraft/./mods/%5B1.12.2%5D%20SecurityCraft%20v1.9.12.jar Service=LaunchWrapper Env=SERVER
+[16:18:04] [main/WARN] [FML]: The coremod SecurityCraftLoadingPlugin (net.geforcemods.securitycraft.SecurityCraftLoadingPlugin) is not signed!
+[16:18:04] [main/INFO] [mixin]: Compatibility level set to JAVA_8
+[16:18:04] [main/WARN] [FML]: The coremod TransformLoader (org.orecruncher.dsurround.mixins.TransformLoader) is not signed!
+[16:18:04] [main/WARN] [FML]: The coremod SpartanWeaponry-MixinLoader (com.oblivioussp.spartanweaponry.mixin.MixinLoader) is not signed!
+[16:18:04] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[16:18:04] [main/INFO] [LaunchWrapper]: Loading tweak class name optifine.OptiFineForgeTweaker
+[16:18:04] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[16:18:04] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[16:18:04] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[16:18:04] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[16:18:04] [main/INFO] [LaunchWrapper]: Calling tweak class optifine.OptiFineForgeTweaker
+[16:18:04] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
+[16:18:04] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: Forge server detected, skipping class transformer
+[16:18:04] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:18:05] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[16:18:05] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:18:05] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:18:05] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:18:06] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:18:06] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:18:06] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:18:06] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[16:18:06] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@afb5821
+[16:18:06] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[16:18:06] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:18:06] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:18:06] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:18:06] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[16:18:06] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[16:18:06] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[16:18:06] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[16:18:06] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: getLaunchArguments
+[16:18:06] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.server.MinecraftServer net.minecraft.server.MinecraftServer
+[16:18:06] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class oq net.minecraft.entity.player.EntityPlayerMP
+[16:18:06] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class pl net.minecraft.server.management.PlayerList
+[16:18:06] [main/INFO] [Meson ASM]: Transforming ItemChorusFruit
+[16:18:06] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [onItemUseFinish, func_77654_b, a] Descriptor (Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/EntityLivingBase;)Lnet/minecraft/item/ItemStack; / (Laip;Lamu;Lvp;)Laip;)
+[16:18:06] [main/INFO] [Meson ASM]: Located method, patching...
+[16:18:06] [main/INFO] [Meson ASM]: Located target IFNE L0
+[16:18:06] [main/INFO] [Meson ASM]: Patch result: true
+[16:18:06] [main/INFO] [mixin]: A re-entrant transformer '$wrapper.svenhjol.charm.base.CharmClassTransformer' was detected and will no longer process meta class data
+[16:18:06] [main/INFO] [mixin]: A re-entrant transformer '$wrapper.thedarkcolour.futuremc.asm.CoreTransformer' was detected and will no longer process meta class data
+[16:18:06] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:101]: Added INTERFACE: pl/asie/foamfix/coremod/patches/IFoamFixWorldRemovable
+[16:18:06] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:141]: Added METHOD: net.minecraft.world.World.foamfix_removeUnloadedEntities
+[16:18:06] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.patches.WorldServerRemovalPatch:apply:57]: Patched updateEntities in net/minecraft/world/WorldServer func_72939_s
+[16:18:07] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class pl net.minecraft.server.management.PlayerList
+[16:18:07] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class aed net.minecraft.entity.player.EntityPlayer
+[16:18:07] [main/INFO] [Meson ASM]: Transforming EntityPlayer
+[16:18:07] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [getArmorVisibility, func_82243_bO, cW] Descriptor ()F / ()F)
+[16:18:07] [main/INFO] [Meson ASM]: Located method, patching...
+[16:18:07] [main/INFO] [Meson ASM]: Located target IINC 1 1
+[16:18:07] [main/INFO] [Meson ASM]: Patch result: true
+[16:18:07] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class aed net.minecraft.entity.player.EntityPlayer
+[16:18:07] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:101]: Added INTERFACE: pl/asie/foamfix/coremod/patches/IFoamFixWorldRemovable
+[16:18:07] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:141]: Added METHOD: net.minecraft.world.World.foamfix_removeUnloadedEntities
+[16:18:07] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[16:18:07] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.state.BlockStateContainer.createState
+[16:18:07] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.block.state.BlockStateContainer.foamfix_mapper
+[16:18:07] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.properties.PropertyEnum.equals
+[16:18:07] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.properties.PropertyEnum.hashCode
+[16:18:07] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.block.properties.PropertyEnum.foamfix_hashCode
+[16:18:07] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.block.properties.PropertyEnum.foamfix_hashCode_calced
+[16:18:07] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.properties.PropertyInteger.hashCode
+[16:18:07] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.block.properties.PropertyInteger.foamfix_hashCode
+[16:18:07] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.block.properties.PropertyInteger.foamfix_hashCode_calced
+[16:18:07] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.properties.PropertyBool.equals
+[16:18:07] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.properties.PropertyBool.hashCode
+[16:18:07] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.tileentity.TileEntity.func_190559_a
+[16:18:07] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.BlockBed.func_189540_a
+[16:18:08] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.patches.GhostBusterBlockStateAccessPatch$FFMethodVisitor:visitMethodInsn:93]: Added ghost buster patch (getBlockState call wrapped) in net/minecraft/block/BlockFarmland func_176530_e (net/minecraft/world/World func_180495_p (Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/block/state/IBlockState;)
+[16:18:08] [main/INFO] [Meson ASM]: Transforming TileEntityFurnace
+[16:18:08] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [smeltItem, func_145949_j, o] Descriptor ()V / ()V)
+[16:18:08] [main/INFO] [Meson ASM]: Located method, patching...
+[16:18:08] [main/INFO] [Meson ASM]: Located target ASTORE 2
+[16:18:08] [main/INFO] [Meson ASM]: Patch result: true
+[16:18:08] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [isItemValidForSlot, func_94041_b, b] Descriptor (ILnet/minecraft/item/ItemStack;)Z / (ILaip;)Z)
+[16:18:08] [main/INFO] [Meson ASM]: Located method, patching...
+[16:18:08] [main/INFO] [Meson ASM]: Located target ILOAD 1
+[16:18:08] [main/INFO] [Meson ASM]: Patch result: true
+[16:18:08] [main/INFO] [Meson ASM]: Transforming TileEntityBeacon
+[16:18:08] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [addEffectsToPlayers, func_146000_x, E] Descriptor ()V / ()V)
+[16:18:08] [main/INFO] [Meson ASM]: Located method, patching...
+[16:18:08] [main/INFO] [Meson ASM]: Located target ALOAD 9
+[16:18:08] [main/INFO] [Meson ASM]: Patch result: true
+[16:18:08] [main/INFO] [Meson ASM]: Transforming EntityWither
+[16:18:08] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [canDestroyBlock, func_181033_a, a] Descriptor (Lnet/minecraft/block/Block;)Z / (Lnet/minecraft/block/Block;)Z)
+[16:18:08] [main/INFO] [Meson ASM]: Failed to locate the method!
+[16:18:08] [main/INFO] [STDOUT]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitTypeInsn:73]: Replaced NEW for net/minecraft/tileentity/TileEntityHopper to pl/asie/foamfix/common/TileEntityFasterHopper
+[16:18:08] [main/INFO] [STDOUT]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitMethodInsn:85]: Replaced INVOKESPECIAL for net/minecraft/tileentity/TileEntityHopper to pl/asie/foamfix/common/TileEntityFasterHopper
+[16:18:08] [main/INFO] [Meson ASM]: Transforming TileEntityShulkerBox
+[16:18:08] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [canInsertItem, func_180462_a, a] Descriptor (ILnet/minecraft/item/ItemStack;Lnet/minecraft/util/EnumFacing;)Z / (ILaip;Lnet/minecraft/util/EnumFacing;)Z)
+[16:18:08] [main/INFO] [Meson ASM]: Failed to locate the method!
+[16:18:08] [main/INFO] [Meson ASM]: Transforming ItemToolMaterial
+[16:18:08] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [getMaxUses, func_77997_a, a] Descriptor ()I / ()I)
+[16:18:08] [main/INFO] [Meson ASM]: Located method, patching...
+[16:18:08] [main/INFO] [Meson ASM]: Located target GETFIELD ain$a.g : I
+[16:18:08] [main/INFO] [Meson ASM]: Patch result: true
+[16:18:08] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [getEfficiency, func_77998_b, b] Descriptor ()F / ()F)
+[16:18:08] [main/INFO] [Meson ASM]: Located method, patching...
+[16:18:08] [main/INFO] [Meson ASM]: Located target GETFIELD ain$a.h : F
+[16:18:08] [main/INFO] [Meson ASM]: Patch result: true
+[16:18:08] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [getAttackDamage, func_78000_c, c] Descriptor ()F / ()F)
+[16:18:08] [main/INFO] [Meson ASM]: Located method, patching...
+[16:18:08] [main/INFO] [Meson ASM]: Located target GETFIELD ain$a.i : F
+[16:18:08] [main/INFO] [Meson ASM]: Patch result: true
+[16:18:08] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [getHarvestLevel, func_77996_d, d] Descriptor ()I / ()I)
+[16:18:08] [main/INFO] [Meson ASM]: Located method, patching...
+[16:18:08] [main/INFO] [Meson ASM]: Located target GETFIELD ain$a.f : I
+[16:18:08] [main/INFO] [Meson ASM]: Patch result: true
+[16:18:08] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [getEnchantability, func_77995_e, e] Descriptor ()I / ()I)
+[16:18:08] [main/INFO] [Meson ASM]: Located method, patching...
+[16:18:08] [main/INFO] [Meson ASM]: Located target GETFIELD ain$a.j : I
+[16:18:08] [main/INFO] [Meson ASM]: Patch result: true
+[16:18:08] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class oq net.minecraft.entity.player.EntityPlayerMP
+[16:18:08] [main/INFO] [Meson ASM]: Transforming ItemChorusFruit
+[16:18:08] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [onItemUseFinish, func_77654_b, a] Descriptor (Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/EntityLivingBase;)Lnet/minecraft/item/ItemStack; / (Laip;Lamu;Lvp;)Laip;)
+[16:18:08] [main/INFO] [Meson ASM]: Located method, patching...
+[16:18:08] [main/INFO] [Meson ASM]: Located target IFNE L0
+[16:18:08] [main/INFO] [Meson ASM]: Patch result: true
+[16:18:09] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:101]: Added INTERFACE: pl/asie/foamfix/api/IFoamFixMobSpawnerLogic
+[16:18:09] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.tileentity.MobSpawnerBaseLogic.func_98279_f
+[16:18:09] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.tileentity.MobSpawnerBaseLogic.foamfix_activatedCache
+[16:18:09] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.tileentity.MobSpawnerBaseLogic.foamfix_activatedCachePESize
+[16:18:09] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.tileentity.MobSpawnerBaseLogic.foamfix_activatedCacheTime
+[16:18:09] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.tileentity.MobSpawnerBaseLogic.foamfix_forcedCache
+[16:18:09] [main/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.tileentity.MobSpawnerBaseLogic.foamfix_forcedCacheTime
+[16:18:10] [main/INFO] [Meson ASM]: Transforming ContainerFurnace
+[16:18:10] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [<init>, <init>, ] Descriptor (Lnet/minecraft/entity/player/InventoryPlayer;Lnet/minecraft/inventory/IInventory;)V / (Laec;Ltv;)V)
+[16:18:10] [main/INFO] [Meson ASM]: Located method, patching...
+[16:18:10] [main/INFO] [Meson ASM]: Located target NEW agr
+[16:18:10] [main/INFO] [Meson ASM]: Patch result: true
+[16:18:10] [main/INFO] [Meson ASM]: Applying Transformation to method (Names [<init>, <init>, ] Descriptor (Lnet/minecraft/entity/player/InventoryPlayer;Lnet/minecraft/inventory/IInventory;)V / (Laec;Ltv;)V)
+[16:18:10] [main/INFO] [Meson ASM]: Located method, patching...
+[16:18:10] [main/INFO] [Meson ASM]: Located target INVOKESPECIAL agr.<init> (Ltv;III)V
+[16:18:10] [main/INFO] [Meson ASM]: Patch result: true
+[16:18:10] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class bfc net.minecraft.world.storage.SaveFormatOld
+[16:18:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[16:18:10] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[16:18:10] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[16:18:10] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[16:18:10] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[16:18:10] [Server thread/INFO] [FML]: Searching /workspaces/paltamusia/servidor_minecraft/./mods for mods
+[16:18:10] [Server thread/WARN] [FML]: Mod securitycraft is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version v1.9.12
+[16:18:10] [Server thread/INFO] [FML]: Disabling mod ctgui it is client side only.
+[16:18:11] [Server thread/INFO] [FML]: Forge Mod Loader has identified 39 mods to load
+[16:18:11] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[16:18:11] [Server thread/WARN] [FML]: Missing English translation for crafttweakerjei: assets/crafttweakerjei/lang/en_us.lang
+[16:18:11] [Server thread/WARN] [FML]: Missing English translation for foamfix: assets/foamfix/lang/en_us.lang
+[16:18:11] [Server thread/WARN] [FML]: Missing English translation for forgelin: assets/forgelin/lang/en_us.lang
+[16:18:12] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, xaerominimap_core, foamfixcore, obfuscate, securitycraft, apexguns, artifacts, baubles, charm, crafttweaker, crafttweakerjei, creativecore, duneons, dsurround, foamfix, forgelin, futuremc, cgm, waila, jei, lostcities, nocubessrparmory, nocubessrpnests, nocubessrpsurvival, overlast, playerrevive, sereneseasons, spartanshields, spartanweaponry, srparasites, traverse, uteamcore, usefulbackpacks, xaerominimap, orelib] at CLIENT
+[16:18:12] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, xaerominimap_core, foamfixcore, obfuscate, securitycraft, apexguns, artifacts, baubles, charm, crafttweaker, crafttweakerjei, creativecore, duneons, dsurround, foamfix, forgelin, futuremc, cgm, waila, jei, lostcities, nocubessrparmory, nocubessrpnests, nocubessrpsurvival, overlast, playerrevive, sereneseasons, spartanshields, spartanweaponry, srparasites, traverse, uteamcore, usefulbackpacks, xaerominimap, orelib] at SERVER
+[16:18:12] [Server thread/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.network.PacketBuffer.func_180714_a
+[16:18:12] [Server thread/INFO] [Meson ASM]: Transforming BrewingRecipeRegistry
+[16:18:12] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [isValidInput, isValidInput, ] Descriptor (Lnet/minecraft/item/ItemStack;)Z / (Laip;)Z)
+[16:18:12] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[16:18:12] [Server thread/INFO] [Meson ASM]: Located target IF_ICMPEQ L0
+[16:18:12] [Server thread/INFO] [Meson ASM]: Patch result: true
+[16:18:13] [Server thread/WARN] [dsurround]: Invalid fingerprint detected!
+[16:18:14] [Server thread/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class axw net.minecraft.world.chunk.Chunk
+[16:18:14] [Server thread/INFO] [STDOUT]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitTypeInsn:73]: Replaced NEW for net/minecraft/util/ClassInheritanceMultiMap to pl/asie/foamfix/coremod/common/FoamyClassInheritanceMultiMap
+[16:18:14] [Server thread/INFO] [STDOUT]: [pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitMethodInsn:85]: Replaced INVOKESPECIAL for net/minecraft/util/ClassInheritanceMultiMap to pl/asie/foamfix/coremod/common/FoamyClassInheritanceMultiMap
+[16:18:14] [Server thread/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.block.state.BlockStateContainer$Builder, but received non-empty
+[16:18:14] [Server thread/INFO] [STDOUT]: [pl.asie.foamfix.coremod.patches.GhostBusterDefinitionPatch:apply:136]: Added ghost buster patch (radius = 4) in net/minecraftforge/fluids/BlockFluidClassic func_180650_b
+[16:18:15] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[16:18:15] [Server thread/INFO] [FML]: Found 1959 ObjectHolder annotations
+[16:18:15] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[16:18:15] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[16:18:15] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[16:18:15] [Forge Version Check/INFO] [forge.VersionCheck]: [orelib] Starting version check at https://raw.githubusercontent.com/OreCruncher/OreLib/master/version.json
+[16:18:15] [Server thread/INFO] [Obfuscate]: Successfully injected SyncedPlayerData capability
+[16:18:15] [Forge Version Check/INFO] [forge.VersionCheck]: [orelib] Found status: UP_TO_DATE Target: null
+[16:18:15] [Forge Version Check/INFO] [forge.VersionCheck]: [crafttweaker] Starting version check at https://updates.blamejared.com/get?n=crafttweaker&gv=1.12.2
+[16:18:16] [Forge Version Check/INFO] [forge.VersionCheck]: [crafttweaker] Found status: BETA Target: null
+[16:18:16] [Forge Version Check/INFO] [forge.VersionCheck]: [usefulbackpacks] Starting version check at https://api.u-team.info/update/usefulbackpacks.json
+[16:18:16] [Forge Version Check/INFO] [forge.VersionCheck]: [usefulbackpacks] Found status: UP_TO_DATE Target: null
+[16:18:16] [Forge Version Check/INFO] [forge.VersionCheck]: [uteamcore] Starting version check at https://api.u-team.info/update/uteamcore.json
+[16:18:16] [Forge Version Check/INFO] [forge.VersionCheck]: [uteamcore] Found status: UP_TO_DATE Target: null
+[16:18:16] [Forge Version Check/INFO] [forge.VersionCheck]: [artifacts] Starting version check at https://raw.githubusercontent.com/ochotonida/artifacts/1.12/update.json
+[16:18:16] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.mrcrayfish.guns.event.CommonEvents
+[16:18:16] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.mrcrayfish.guns.event.CommonEvents
+[16:18:16] [Server thread/INFO] [apexguns]: Started loading config. 
+[16:18:16] [Server thread/INFO] [apexguns]: Finished loading config. 
+[16:18:16] [Forge Version Check/INFO] [forge.VersionCheck]: [artifacts] Found status: AHEAD Target: null
+[16:18:16] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[16:18:17] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[16:18:17] [Forge Version Check/INFO] [forge.VersionCheck]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[16:18:17] [Forge Version Check/INFO] [forge.VersionCheck]: [securitycraft] Found status: UP_TO_DATE Target: null
+[16:18:17] [Server thread/INFO] [Meson]: Configuring feature GunpowderBlock
+[16:18:17] [Server thread/INFO] [Meson]: Configuring feature RedstoneSand
+[16:18:17] [Server thread/INFO] [Meson]: Configuring feature VariableRedstoneLamp
+[16:18:17] [Server thread/INFO] [Meson]: Configuring feature Coffee
+[16:18:17] [Server thread/INFO] [Meson]: Configuring feature Decay
+[16:18:17] [Server thread/INFO] [Meson]: Configuring feature EnderSight
+[16:18:17] [Server thread/INFO] [Meson]: Configuring feature FlavoredCake
+[16:18:17] [Server thread/INFO] [Meson]: Configuring feature PoisonousPotatoBrew
+[16:18:17] [Server thread/INFO] [Meson]: Configuring feature Barrel
+[16:18:17] [Server thread/INFO] [Meson]: Configuring feature BookshelfChest
+[16:18:17] [Server thread/INFO] [Meson]: Configuring feature Composter
+[16:18:17] [Server thread/INFO] [Meson]: Configuring feature Crate
+[16:18:17] [Server thread/INFO] [Meson]: Configuring feature EnderPearlBlock
+[16:18:17] [Server thread/INFO] [Meson]: Configuring feature Lantern
+[16:18:17] [Server thread/INFO] [Meson]: Configuring feature RottenFleshBlock
+[16:18:17] [Server thread/INFO] [Meson]: Configuring feature SmoothGlowstone
+[16:18:17] [Server thread/INFO] [Meson]: Configuring feature SuspiciousSoup
+[16:18:17] [Server thread/INFO] [Meson]: Configuring feature CurseBreak
+[16:18:17] [Server thread/INFO] [Meson]: Configuring feature ExtraCurses
+[16:18:17] [Server thread/INFO] [Meson]: Configuring feature Homing
+[16:18:17] [Server thread/INFO] [Meson]: Configuring feature Magnetic
+[16:18:17] [Server thread/INFO] [Meson]: Configuring feature Salvage
+[16:18:17] [Server thread/INFO] [Meson]: Configuring feature DecreaseRepairCost
+[16:18:17] [Server thread/INFO] [Meson]: Configuring feature ExtendTotemOfReturning
+[16:18:17] [Server thread/INFO] [Meson]: Configuring feature ExtractBookXP
+[16:18:17] [Server thread/INFO] [Meson]: Configuring feature ExtractEnchantments
+[16:18:17] [Server thread/INFO] [Meson]: Configuring feature TallowIncreasesDurability
+[16:18:17] [Server thread/INFO] [Meson]: Configuring feature CactusWater
+[16:18:17] [Server thread/INFO] [Meson]: Configuring feature CauldronWaterSource
+[16:18:17] [Server thread/INFO] [Meson]: Configuring feature CompassBinding
+[16:18:17] [Server thread/INFO] [Meson]: Configuring feature DispensersUseAnyBow
+[16:18:17] [Server thread/INFO] [Meson]: Configuring feature ExtraRecords
+[16:18:17] [Server thread/INFO] [Meson]: Configuring feature FurnacesRecycleMore
+[16:18:17] [Server thread/INFO] [Meson]: Configuring feature GoldToolImprovements
+[16:18:17] [Server thread/INFO] [Meson]: Configuring feature LeatherArmorInvisibility
+[16:18:17] [Server thread/INFO] [Meson]: Configuring feature PickaxesBreakPistons
+[16:18:17] [Server thread/INFO] [Meson]: Configuring feature RandomAnimalTextures
+[16:18:17] [Server thread/INFO] [Meson]: Configuring feature RecordsStopBackgroundMusic
+[16:18:17] [Server thread/INFO] [Meson]: Configuring feature RemoveNitwits
+[16:18:17] [Server thread/INFO] [Meson]: Configuring feature RestrictFurnaceInput
+[16:18:17] [Server thread/INFO] [Meson]: Configuring feature ShearedMelons
+[16:18:17] [Server thread/INFO] [Meson]: Configuring feature SpongesReduceFallDamage
+[16:18:17] [Server thread/INFO] [Meson]: Configuring feature StackableEnchantedBooks
+[16:18:17] [Server thread/INFO] [Meson]: Configuring feature StackableMilkBuckets
+[16:18:17] [Server thread/INFO] [Meson]: Configuring feature StackablePotions
+[16:18:17] [Server thread/INFO] [Meson]: Configuring feature TamedAnimalsHealing
+[16:18:17] [Server thread/INFO] [Meson]: Configuring feature TamedAnimalsNoDamage
+[16:18:17] [Server thread/INFO] [Meson]: Configuring feature UseTotemFromInventory
+[16:18:17] [Server thread/INFO] [Meson]: Configuring feature WaterInHotBiomes
+[16:18:17] [Server thread/INFO] [Meson]: Configuring feature WitchesDropDecay
+[16:18:17] [Server thread/INFO] [Meson]: Configuring feature WitchesDropLuck
+[16:18:17] [Server thread/INFO] [Meson]: Configuring feature WitchHatProtection
+[16:18:17] [Server thread/INFO] [Meson]: Configuring feature AbandonedCrates
+[16:18:17] [Server thread/INFO] [Meson]: Configuring feature BatBucket
+[16:18:17] [Server thread/INFO] [Meson]: Configuring feature ChargedEmeralds
+[16:18:17] [Server thread/INFO] [Meson]: Configuring feature EndermitePowder
+[16:18:17] [Server thread/INFO] [Meson]: Configuring feature EndPortalRunes
+[16:18:17] [Server thread/INFO] [Meson]: Configuring feature IllusionersInRoofedForest
+[16:18:17] [Server thread/INFO] [Meson]: Configuring feature Moonstone
+[16:18:17] [Server thread/INFO] [Meson]: Configuring feature MoreVillageBiomes
+[16:18:17] [Server thread/INFO] [Meson]: Configuring feature NetherGoldDeposits
+[16:18:17] [Server thread/INFO] [Meson]: Configuring feature Spectre
+[16:18:17] [Server thread/INFO] [Meson]: Configuring feature SpectreHaunting
+[16:18:17] [Server thread/INFO] [Meson]: Configuring feature StructureMaps
+[16:18:17] [Server thread/INFO] [Meson]: Configuring feature SwampHutDecorations
+[16:18:17] [Server thread/INFO] [Meson]: Configuring feature TotemOfReturning
+[16:18:17] [Server thread/INFO] [Meson]: Configuring feature TotemOfShielding
+[16:18:17] [Server thread/INFO] [Meson]: Configuring feature VillageDecorations
+[16:18:17] [Server thread/INFO] [Meson]: Configuring feature VillagerTrades
+[16:18:17] [Server thread/INFO] [Meson]: Configuring feature VindicatorsInRoofedForest
+[16:18:17] [Server thread/INFO] [Meson]: Starting module CharmAutomation
+[16:18:17] [Server thread/INFO] [Meson]: Starting feature GunpowderBlock
+[16:18:17] [Server thread/INFO] [Meson]: Starting feature RedstoneSand
+[16:18:17] [Server thread/INFO] [Meson]: Starting feature VariableRedstoneLamp
+[16:18:17] [Server thread/INFO] [Meson]: Starting module CharmBrewing
+[16:18:17] [Server thread/INFO] [Meson]: Starting feature Coffee
+[16:18:17] [Server thread/INFO] [Meson]: Starting feature Decay
+[16:18:17] [Server thread/INFO] [Meson]: Starting feature EnderSight
+[16:18:17] [Server thread/INFO] [Meson]: Starting feature FlavoredCake
+[16:18:17] [Server thread/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.client.renderer.block.model.ModelResourceLocation.<init>
+[16:18:17] [Server thread/INFO] [Meson]: Starting feature PoisonousPotatoBrew
+[16:18:17] [Server thread/INFO] [Meson]: Starting module CharmCrafting
+[16:18:17] [Server thread/INFO] [Meson]: Starting feature Barrel
+[16:18:17] [Server thread/INFO] [Meson]: Starting feature BookshelfChest
+[16:18:17] [Server thread/INFO] [Meson]: Starting feature Crate
+[16:18:17] [Server thread/INFO] [Meson]: Starting feature EnderPearlBlock
+[16:18:17] [Server thread/INFO] [Meson]: Starting feature Lantern
+[16:18:17] [Server thread/INFO] [Meson]: Starting feature RottenFleshBlock
+[16:18:17] [Server thread/INFO] [Meson]: Starting feature SmoothGlowstone
+[16:18:17] [Server thread/INFO] [Meson]: Starting feature SuspiciousSoup
+[16:18:17] [Server thread/INFO] [Meson]: Starting module CharmEnchanting
+[16:18:17] [Server thread/INFO] [Meson]: Starting feature CurseBreak
+[16:18:17] [Server thread/INFO] [Meson]: Starting feature ExtraCurses
+[16:18:17] [Server thread/INFO] [Meson]: Starting feature Homing
+[16:18:17] [Server thread/INFO] [Meson]: Starting feature Magnetic
+[16:18:17] [Server thread/INFO] [Meson]: Starting feature Salvage
+[16:18:17] [Server thread/INFO] [Meson]: Starting module CharmSmithing
+[16:18:17] [Server thread/INFO] [Meson]: Starting feature DecreaseRepairCost
+[16:18:17] [Server thread/INFO] [Meson]: Starting feature ExtendTotemOfReturning
+[16:18:17] [Server thread/INFO] [Meson]: Starting feature ExtractBookXP
+[16:18:17] [Server thread/INFO] [Meson]: Starting feature ExtractEnchantments
+[16:18:17] [Server thread/INFO] [Meson]: Starting module CharmTweaks
+[16:18:17] [Server thread/INFO] [Meson]: Starting feature CactusWater
+[16:18:17] [Server thread/INFO] [Meson]: Starting feature CauldronWaterSource
+[16:18:17] [Server thread/INFO] [Meson]: Starting feature CompassBinding
+[16:18:17] [Server thread/INFO] [Meson]: Starting feature DispensersUseAnyBow
+[16:18:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `dispenser`, expected `charm`. This could be a intended override, but in most cases indicates a broken mod.
+[16:18:17] [Server thread/INFO] [Meson]: Starting feature ExtraRecords
+[16:18:17] [Server thread/INFO] [Meson]: Starting feature FurnacesRecycleMore
+[16:18:17] [Server thread/INFO] [Meson]: Starting feature GoldToolImprovements
+[16:18:17] [Server thread/INFO] [Meson]: Starting feature LeatherArmorInvisibility
+[16:18:17] [Server thread/INFO] [Meson]: Starting feature PickaxesBreakPistons
+[16:18:17] [Server thread/INFO] [Meson]: Starting feature RandomAnimalTextures
+[16:18:17] [Server thread/INFO] [Meson]: Starting feature RecordsStopBackgroundMusic
+[16:18:17] [Server thread/INFO] [Meson]: Starting feature RemoveNitwits
+[16:18:17] [Server thread/INFO] [Meson]: Starting feature RestrictFurnaceInput
+[16:18:17] [Server thread/INFO] [Meson]: Starting feature ShearedMelons
+[16:18:17] [Server thread/INFO] [Meson]: Starting feature SpongesReduceFallDamage
+[16:18:17] [Server thread/INFO] [Meson]: Starting feature StackableEnchantedBooks
+[16:18:17] [Server thread/INFO] [Meson]: Starting feature StackableMilkBuckets
+[16:18:17] [Server thread/INFO] [Meson]: Starting feature StackablePotions
+[16:18:17] [Server thread/INFO] [Meson]: Starting feature TamedAnimalsHealing
+[16:18:17] [Server thread/INFO] [Meson]: Starting feature TamedAnimalsNoDamage
+[16:18:17] [Server thread/INFO] [Meson]: Starting feature UseTotemFromInventory
+[16:18:17] [Server thread/INFO] [Meson]: Starting feature WaterInHotBiomes
+[16:18:17] [Server thread/INFO] [Meson]: Starting feature WitchesDropDecay
+[16:18:17] [Server thread/INFO] [Meson]: Starting feature WitchesDropLuck
+[16:18:17] [Server thread/INFO] [Meson]: Starting module CharmWorld
+[16:18:17] [Server thread/INFO] [Meson]: Starting feature AbandonedCrates
+[16:18:17] [Server thread/INFO] [Meson]: Starting feature BatBucket
+[16:18:17] [Server thread/INFO] [Meson]: Starting feature ChargedEmeralds
+[16:18:17] [Server thread/INFO] [Meson]: Starting feature EndermitePowder
+[16:18:17] [Server thread/INFO] [Meson]: Starting feature IllusionersInRoofedForest
+[16:18:17] [Server thread/INFO] [Meson]: Starting feature Moonstone
+[16:18:17] [Server thread/INFO] [Meson]: Starting feature MoreVillageBiomes
+[16:18:17] [Server thread/INFO] [Meson ASM]: Transforming StructureVillagePieces$Village
+[16:18:17] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [biomeDoor, func_189925_i, i] Descriptor ()Lnet/minecraft/block/BlockDoor; / ()Laqa;)
+[16:18:17] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[16:18:17] [Server thread/INFO] [Meson ASM]: Located target ALOAD 0
+[16:18:17] [Server thread/INFO] [Meson ASM]: Patch result: true
+[16:18:17] [Server thread/INFO] [Meson ASM]: Transforming StructureStart
+[16:18:17] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [generateStructure, func_75068_a, a] Descriptor (Lnet/minecraft/world/World;Ljava/util/Random;Lnet/minecraft/world/gen/structure/StructureBoundingBox;)V / (Lamu;Ljava/util/Random;Lbbg;)V)
+[16:18:17] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[16:18:17] [Server thread/INFO] [Meson ASM]: Located target INVOKEVIRTUAL bbx.a (Lamu;Ljava/util/Random;Lbbg;)Z
+[16:18:17] [Server thread/INFO] [Meson ASM]: Patch result: true
+[16:18:17] [Server thread/INFO] [Meson]: Starting feature NetherGoldDeposits
+[16:18:17] [Server thread/INFO] [Meson]: Starting feature Spectre
+[16:18:17] [Server thread/INFO] [Meson]: Starting feature SpectreHaunting
+[16:18:17] [Server thread/INFO] [Meson]: Starting feature StructureMaps
+[16:18:17] [Server thread/INFO] [Meson]: Starting feature SwampHutDecorations
+[16:18:17] [Server thread/INFO] [Meson]: Starting feature TotemOfReturning
+[16:18:17] [Server thread/INFO] [Meson]: Starting feature TotemOfShielding
+[16:18:17] [Server thread/INFO] [Meson]: Starting feature VillageDecorations
+[16:18:17] [Server thread/INFO] [Meson]: Starting feature VillagerTrades
+[16:18:17] [Server thread/INFO] [Meson]: Starting feature VindicatorsInRoofedForest
+[16:18:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `season_sensor`, expected `sereneseasons`. This could be a intended override, but in most cases indicates a broken mod.
+[16:18:18] [Server thread/INFO] [orelib]: Loading language resources [orelib:en_us]
+[16:18:18] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$profiles::PATH]
+[16:18:18] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$commands::PATH]
+[16:18:18] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$commands$calc::PATH]
+[16:18:18] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$commands$ds::PATH]
+[16:18:18] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$speechbubbles::PATH]
+[16:18:18] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$player::PATH]
+[16:18:18] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$sound::PATH]
+[16:18:18] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$effects::PATH]
+[16:18:18] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$biomes::PATH]
+[16:18:18] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$aurora::PATH]
+[16:18:18] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$general::PATH]
+[16:18:18] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$fog::PATH]
+[16:18:18] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$rain::PATH]
+[16:18:18] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$logging::PATH]
+[16:18:18] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$asm::PATH]
+[16:18:18] [Server thread/INFO] [orelib]: Loading language resources [dsurround:en_us]
+[16:18:18] [Server thread/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraftforge.common.property.ExtendedBlockState.createState
+[16:18:18] [Server thread/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraftforge.common.property.ExtendedBlockState.foamfix_mapper
+[16:18:18] [Server thread/INFO] [foamfix]: Removing LaunchWrapper package manifest map...
+[16:18:18] [Server thread/INFO] [srparasites]: [MOD COMPATIBILITY] Checked for 2 mods that may be in the list that need patches or alternative code
+[16:18:18] [Server thread/INFO] [Spartan Shields]: Starting up Spartan Shields!
+[16:18:18] [Server thread/INFO] [Spartan Weaponry]: Starting up Spartan Weaponry!
+[16:18:18] [Server thread/INFO] [Spartan Weaponry]: API: Loaded internal method handler. API functionality should work now!
+[16:18:18] [Server thread/INFO] [Spartan Weaponry]: Defined config version: 2.0 - Loaded config version: 2.0
+[16:18:19] [Server thread/INFO] [FML]: Applying holder lookups
+[16:18:19] [Server thread/INFO] [FML]: Holder lookups applied
+[16:18:19] [Server thread/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class brs net.minecraft.client.model.ModelRenderer
+[16:18:20] [Server thread/INFO] [Spartan Shields]: Items Registered!
+[16:18:20] [Server thread/INFO] [Spartan Weaponry]: Registering 10 modded material based weapons
+[16:18:20] [Server thread/INFO] [Spartan Weaponry]: Adding weapons for materials: Copper, Tin, Bronze, Steel, Silver, Invar, Platinum, Electrum, Nickel, Lead
+[16:18:20] [Server thread/INFO] [Spartan Weaponry]: Items Registered!
+[16:18:20] [Server thread/INFO] [FML]: Applying holder lookups
+[16:18:20] [Server thread/INFO] [FML]: Holder lookups applied
+[16:18:20] [Server thread/INFO] [Spartan Weaponry]: Registering Enchantments!
+[16:18:20] [Server thread/INFO] [Spartan Weaponry]: Registering entities!
+[16:18:20] [Server thread/INFO] [FML]: Applying holder lookups
+[16:18:20] [Server thread/INFO] [FML]: Holder lookups applied
+[16:18:20] [Server thread/INFO] [FML]: Applying holder lookups
+[16:18:20] [Server thread/INFO] [FML]: Holder lookups applied
+[16:18:20] [Server thread/INFO] [FML]: Injecting itemstacks
+[16:18:20] [Server thread/INFO] [FML]: Itemstack injection complete
+[16:18:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[16:18:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[16:18:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[16:18:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[16:18:20] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[16:18:20] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:18:20] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[16:18:20] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:18:20] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:18:20] [Server thread/ERROR] [FML]: Parsing error loading recipe duneons:paintingdun
 com.google.gson.JsonSyntaxException: Unknown item 'duneons:unknown_element'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -443,7 +443,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'duneons:unknown_element'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[15:11:30] [Server thread/ERROR] [FML]: Parsing error loading recipe duneons:ninjacraft2
+[16:18:20] [Server thread/ERROR] [FML]: Parsing error loading recipe duneons:ninjacraft2
 com.google.gson.JsonSyntaxException: Unknown item 'duneons:unknown_element'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -461,7 +461,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'duneons:unknown_element'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[15:11:30] [Server thread/ERROR] [FML]: Parsing error loading recipe duneons:knighthelmetcraft
+[16:18:20] [Server thread/ERROR] [FML]: Parsing error loading recipe duneons:knighthelmetcraft
 com.google.gson.JsonSyntaxException: Unknown item 'duneons:unknown_elementhelmet'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:214) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:523) ~[CraftingHelper.class:?]
@@ -477,7 +477,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'duneons:unknown_elementhelmet
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[15:11:30] [Server thread/ERROR] [FML]: Parsing error loading recipe duneons:keggibscraft
+[16:18:20] [Server thread/ERROR] [FML]: Parsing error loading recipe duneons:keggibscraft
 com.google.gson.JsonSyntaxException: Unknown item 'duneons:unknown_elementlegs'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:214) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$15(CraftingHelper.java:538) ~[CraftingHelper.class:?]
@@ -493,7 +493,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'duneons:unknown_elementlegs'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[15:11:30] [Server thread/ERROR] [FML]: Parsing error loading recipe duneons:crowncraft
+[16:18:21] [Server thread/ERROR] [FML]: Parsing error loading recipe duneons:crowncraft
 com.google.gson.JsonSyntaxException: Unknown item 'duneons:unknown_elementhelmet'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:214) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$15(CraftingHelper.java:538) ~[CraftingHelper.class:?]
@@ -509,7 +509,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'duneons:unknown_elementhelmet
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[15:11:30] [Server thread/ERROR] [FML]: Parsing error loading recipe duneons:craftvangardsworfd
+[16:18:21] [Server thread/ERROR] [FML]: Parsing error loading recipe duneons:craftvangardsworfd
 com.google.gson.JsonSyntaxException: Unknown item 'duneons:unknown_element'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:214) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:523) ~[CraftingHelper.class:?]
@@ -525,7 +525,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'duneons:unknown_element'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[15:11:30] [Server thread/ERROR] [FML]: Parsing error loading recipe duneons:crafttstaffblue
+[16:18:21] [Server thread/ERROR] [FML]: Parsing error loading recipe duneons:crafttstaffblue
 com.google.gson.JsonSyntaxException: Unknown item 'duneons:feather2'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -543,7 +543,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'duneons:feather2'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[15:11:30] [Server thread/ERROR] [FML]: Parsing error loading recipe duneons:craftsandctatue
+[16:18:21] [Server thread/ERROR] [FML]: Parsing error loading recipe duneons:craftsandctatue
 com.google.gson.JsonSyntaxException: Unknown item 'duneons:sandhumanstatue'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:214) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:523) ~[CraftingHelper.class:?]
@@ -559,7 +559,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'duneons:sandhumanstatue'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[15:11:30] [Server thread/ERROR] [FML]: Parsing error loading recipe duneons:craftnninjaboots
+[16:18:21] [Server thread/ERROR] [FML]: Parsing error loading recipe duneons:craftnninjaboots
 com.google.gson.JsonSyntaxException: Unknown item 'duneons:ninjaarmorboots'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:214) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$15(CraftingHelper.java:538) ~[CraftingHelper.class:?]
@@ -575,7 +575,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'duneons:ninjaarmorboots'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[15:11:30] [Server thread/ERROR] [FML]: Parsing error loading recipe duneons:carpetskelewton
+[16:18:21] [Server thread/ERROR] [FML]: Parsing error loading recipe duneons:carpetskelewton
 com.google.gson.JsonSyntaxException: Unknown item 'duneons:unknown_element'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -593,7 +593,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'duneons:unknown_element'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[15:11:30] [Server thread/ERROR] [FML]: Parsing error loading recipe duneons:brickercolon
+[16:18:21] [Server thread/ERROR] [FML]: Parsing error loading recipe duneons:brickercolon
 com.google.gson.JsonSyntaxException: Unknown item 'duneons:unknown_element'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:214) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:523) ~[CraftingHelper.class:?]
@@ -609,7 +609,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'duneons:unknown_element'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[15:11:30] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrparmory:recipe_vanilla_arrows
+[16:18:21] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrparmory:recipe_vanilla_arrows
 com.google.gson.JsonSyntaxException: Unknown item 'srparasites:strange_bone'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -630,7 +630,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'srparasites:strange_bone'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[15:11:30] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrpsurvival:recipe_parasitic_bone_block
+[16:18:21] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrpsurvival:recipe_parasitic_bone_block
 com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pattern: [2, 5, 6, 7, 8]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:521) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
@@ -645,52 +645,52 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[15:11:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `nether_brick_fence`, expected `futuremc`. This could be a intended override, but in most cases indicates a broken mod.
-[15:11:30] [Server thread/INFO] [Spartan Shields]: Recipes added!
-[15:11:30] [Server thread/INFO] [Spartan Weaponry]: Registering recipes for Tipped Bolts!
-[15:11:30] [Server thread/INFO] [Spartan Weaponry]: Recipes added!
-[15:11:30] [Server thread/INFO] [FML]: Applying holder lookups
-[15:11:30] [Server thread/INFO] [FML]: Holder lookups applied
-[15:11:31] [Server thread/INFO] [STDOUT]: [com.mrcrayfish.apexguns.util.ConfigResolver:ConfigRecipe:20]: [2xitem.sulphur@0, 8xitem.ironNugget@0, 2xitem.dyePowder@14]
-[15:11:31] [Server thread/INFO] [STDOUT]: [com.mrcrayfish.apexguns.util.ConfigResolver:ConfigRecipe:20]: [2xitem.sulphur@0, 8xitem.ironNugget@0, 2xitem.dyePowder@6]
-[15:11:31] [Server thread/INFO] [STDOUT]: [com.mrcrayfish.apexguns.util.ConfigResolver:ConfigRecipe:20]: [2xitem.sulphur@0, 4xitem.ingotIron@0, 6xtile.obsidian@0]
-[15:11:31] [Server thread/INFO] [STDOUT]: [com.mrcrayfish.apexguns.util.ConfigResolver:ConfigRecipe:20]: [64xitem.ingotIron@0, 16xtile.obsidian@0, 8xitem.dyePowder@7, 8xitem.dyePowder@14]
-[15:11:31] [Server thread/INFO] [STDOUT]: [com.mrcrayfish.apexguns.util.ConfigResolver:ConfigRecipe:20]: [32xitem.ingotIron@0, 8xitem.dyePowder@7, 8xitem.dyePowder@14]
-[15:11:31] [Server thread/INFO] [STDOUT]: [com.mrcrayfish.apexguns.util.ConfigResolver:ConfigRecipe:20]: [32xitem.ingotIron@0, 8xitem.dyePowder@8, 8xitem.dyePowder@14]
-[15:11:31] [Server thread/INFO] [STDOUT]: [com.mrcrayfish.apexguns.util.ConfigResolver:ConfigRecipe:20]: [32xitem.ingotIron@0, 8xitem.dyePowder@12, 8xitem.dyePowder@7]
-[15:11:31] [Server thread/INFO] [STDOUT]: [com.mrcrayfish.apexguns.util.ConfigResolver:ConfigRecipe:20]: [32xitem.ingotIron@0, 8xitem.dyePowder@7, 8xitem.dyePowder@10]
-[15:11:31] [Server thread/INFO] [foamfix]: Deduplicated 179 property sets.
-[15:11:31] [Server thread/INFO] [foamfix]: Weakening LaunchWrapper resource cache...
-[15:11:31] [Server thread/INFO] [Spartan Weaponry]: Registering OreDictionary entries
-[15:11:31] [Server thread/INFO] [Spartan Weaponry]: Attempting to add new advancement triggers...
-[15:11:31] [Server thread/INFO] [Spartan Weaponry]: New advancement triggers added successfully!
-[15:11:31] [Server thread/INFO] [xaero.minimap.XaeroMinimap]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[15:11:31] [Server thread/INFO] [FML]: Injecting itemstacks
-[15:11:31] [Server thread/INFO] [FML]: Itemstack injection complete
-[15:11:31] [Server thread/WARN] [FML]: No types have been added to Biome duneons:orangebiome, types have been assigned on a best-effort guess: [DENSE, FOREST]
-[15:11:31] [Server thread/WARN] [FML]: No types have been added to Biome duneons:palmsbiome, types have been assigned on a best-effort guess: [SANDY, DENSE, FOREST]
-[15:11:31] [Server thread/WARN] [FML]: No types have been added to Biome duneons:mossmesa, types have been assigned on a best-effort guess: [HILLS, DENSE, FOREST]
-[15:11:31] [Server thread/WARN] [FML]: No types have been added to Biome duneons:spidersforest, types have been assigned on a best-effort guess: [FOREST]
-[15:11:31] [Server thread/INFO] [srparasites]: [MOD COMPATIBILITY] 0 of 2 modules activated
-[15:11:31] [Server thread/INFO] [xaero.minimap.XaeroMinimap]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[15:11:31] [Server thread/INFO] [dsurround]: Initializing registry [Dimension Registry]
-[15:11:31] [Server thread/INFO] [Waila]: Starting Waila...
-[15:11:31] [Server thread/INFO] [Waila]: Gathering annotated plugins...
-[15:11:31] [Server thread/INFO] [Waila]: Gathering wrapped IMC plugins...
-[15:11:31] [Server thread/INFO] [Waila]: Registering plugins...
-[15:11:31] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.core.PluginCore
-[15:11:31] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
-[15:11:31] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.capability.PluginCapability
-[15:11:31] [Server thread/INFO] [Waila]: Registering plugin at net.geforcemods.securitycraft.compat.hudmods.WailaDataProvider
-[15:11:31] [Server thread/INFO] [Waila]: Starting Waila took 45.07 ms
-[15:11:31] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 39 mods
-[15:11:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "Venezuela"
-[15:11:32] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
-[15:11:32] [Server thread/INFO] [FML]: Applying holder lookups
-[15:11:32] [Server thread/INFO] [FML]: Holder lookups applied
-[15:11:32] [Server thread/INFO] [STDOUT]: [pl.asie.foamfix.coremod.patches.WorldServerRemovalPatch:apply:57]: Patched updateEntities in net/minecraft/world/WorldServer func_72939_s
-[15:11:32] [Server thread/INFO] [FML]: Loading dimension 0 (Venezuela) (net.minecraft.server.dedicated.DedicatedServer@6be9acfc)
-[15:11:32] [Server thread/ERROR] [net.minecraft.world.storage.loot.LootTableManager]: Couldn't load loot table duneons:dungeonsloot2 from jar:file:/workspaces/paltamusia/servidor_minecraft/./mods/dungeons_1.4.4_mc1.12.2%20(not%20supported,fix).jar!/assets/duneons/loot_tables/dungeonsloot2.json
+[16:18:21] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `nether_brick_fence`, expected `futuremc`. This could be a intended override, but in most cases indicates a broken mod.
+[16:18:21] [Server thread/INFO] [Spartan Shields]: Recipes added!
+[16:18:21] [Server thread/INFO] [Spartan Weaponry]: Registering recipes for Tipped Bolts!
+[16:18:21] [Server thread/INFO] [Spartan Weaponry]: Recipes added!
+[16:18:21] [Server thread/INFO] [FML]: Applying holder lookups
+[16:18:21] [Server thread/INFO] [FML]: Holder lookups applied
+[16:18:21] [Server thread/INFO] [STDOUT]: [com.mrcrayfish.apexguns.util.ConfigResolver:ConfigRecipe:20]: [2xitem.sulphur@0, 8xitem.ironNugget@0, 2xitem.dyePowder@14]
+[16:18:21] [Server thread/INFO] [STDOUT]: [com.mrcrayfish.apexguns.util.ConfigResolver:ConfigRecipe:20]: [2xitem.sulphur@0, 8xitem.ironNugget@0, 2xitem.dyePowder@6]
+[16:18:21] [Server thread/INFO] [STDOUT]: [com.mrcrayfish.apexguns.util.ConfigResolver:ConfigRecipe:20]: [2xitem.sulphur@0, 4xitem.ingotIron@0, 6xtile.obsidian@0]
+[16:18:21] [Server thread/INFO] [STDOUT]: [com.mrcrayfish.apexguns.util.ConfigResolver:ConfigRecipe:20]: [64xitem.ingotIron@0, 16xtile.obsidian@0, 8xitem.dyePowder@7, 8xitem.dyePowder@14]
+[16:18:21] [Server thread/INFO] [STDOUT]: [com.mrcrayfish.apexguns.util.ConfigResolver:ConfigRecipe:20]: [32xitem.ingotIron@0, 8xitem.dyePowder@7, 8xitem.dyePowder@14]
+[16:18:21] [Server thread/INFO] [STDOUT]: [com.mrcrayfish.apexguns.util.ConfigResolver:ConfigRecipe:20]: [32xitem.ingotIron@0, 8xitem.dyePowder@8, 8xitem.dyePowder@14]
+[16:18:21] [Server thread/INFO] [STDOUT]: [com.mrcrayfish.apexguns.util.ConfigResolver:ConfigRecipe:20]: [32xitem.ingotIron@0, 8xitem.dyePowder@12, 8xitem.dyePowder@7]
+[16:18:21] [Server thread/INFO] [STDOUT]: [com.mrcrayfish.apexguns.util.ConfigResolver:ConfigRecipe:20]: [32xitem.ingotIron@0, 8xitem.dyePowder@7, 8xitem.dyePowder@10]
+[16:18:21] [Server thread/INFO] [foamfix]: Deduplicated 179 property sets.
+[16:18:21] [Server thread/INFO] [foamfix]: Weakening LaunchWrapper resource cache...
+[16:18:21] [Server thread/INFO] [Spartan Weaponry]: Registering OreDictionary entries
+[16:18:21] [Server thread/INFO] [Spartan Weaponry]: Attempting to add new advancement triggers...
+[16:18:21] [Server thread/INFO] [Spartan Weaponry]: New advancement triggers added successfully!
+[16:18:21] [Server thread/INFO] [xaero.minimap.XaeroMinimap]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[16:18:21] [Server thread/INFO] [FML]: Injecting itemstacks
+[16:18:21] [Server thread/INFO] [FML]: Itemstack injection complete
+[16:18:21] [Server thread/WARN] [FML]: No types have been added to Biome duneons:orangebiome, types have been assigned on a best-effort guess: [FOREST, DENSE]
+[16:18:21] [Server thread/WARN] [FML]: No types have been added to Biome duneons:palmsbiome, types have been assigned on a best-effort guess: [SANDY, FOREST, DENSE]
+[16:18:21] [Server thread/WARN] [FML]: No types have been added to Biome duneons:mossmesa, types have been assigned on a best-effort guess: [FOREST, HILLS, DENSE]
+[16:18:21] [Server thread/WARN] [FML]: No types have been added to Biome duneons:spidersforest, types have been assigned on a best-effort guess: [FOREST]
+[16:18:21] [Server thread/INFO] [srparasites]: [MOD COMPATIBILITY] 0 of 2 modules activated
+[16:18:21] [Server thread/INFO] [xaero.minimap.XaeroMinimap]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[16:18:21] [Server thread/INFO] [dsurround]: Initializing registry [Dimension Registry]
+[16:18:21] [Server thread/INFO] [Waila]: Starting Waila...
+[16:18:21] [Server thread/INFO] [Waila]: Gathering annotated plugins...
+[16:18:21] [Server thread/INFO] [Waila]: Gathering wrapped IMC plugins...
+[16:18:21] [Server thread/INFO] [Waila]: Registering plugins...
+[16:18:21] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.core.PluginCore
+[16:18:21] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.capability.PluginCapability
+[16:18:21] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
+[16:18:21] [Server thread/INFO] [Waila]: Registering plugin at net.geforcemods.securitycraft.compat.hudmods.WailaDataProvider
+[16:18:21] [Server thread/INFO] [Waila]: Starting Waila took 42.25 ms
+[16:18:22] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 39 mods
+[16:18:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "Venezuela"
+[16:18:22] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[16:18:22] [Server thread/INFO] [FML]: Applying holder lookups
+[16:18:22] [Server thread/INFO] [FML]: Holder lookups applied
+[16:18:22] [Server thread/INFO] [STDOUT]: [pl.asie.foamfix.coremod.patches.WorldServerRemovalPatch:apply:57]: Patched updateEntities in net/minecraft/world/WorldServer func_72939_s
+[16:18:22] [Server thread/INFO] [FML]: Loading dimension 0 (Venezuela) (net.minecraft.server.dedicated.DedicatedServer@ea1f9f9)
+[16:18:22] [Server thread/ERROR] [net.minecraft.world.storage.loot.LootTableManager]: Couldn't load loot table duneons:dungeonsloot2 from jar:file:/workspaces/paltamusia/servidor_minecraft/./mods/dungeons_1.4.4_mc1.12.2%20(not%20supported,fix).jar!/assets/duneons/loot_tables/dungeonsloot2.json
 com.google.gson.JsonParseException: Loot Table "duneons:dungeonsloot2" Missing `name` entry for pool #0
 	at net.minecraftforge.common.ForgeHooks.readPoolName(ForgeHooks.java:1252) ~[ForgeHooks.class:14.23.5.2860]
 	at net.minecraft.world.storage.loot.LootPool$Serializer.deserialize(LootPool.java:143) ~[bfq$a.class:?]
@@ -730,8 +730,8 @@ com.google.gson.JsonParseException: Loot Table "duneons:dungeonsloot2" Missing `
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:270) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[15:11:32] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTableManager]: Couldn't find resource table minecraft:dungeonloot
-[15:11:33] [Server thread/ERROR] [net.minecraft.advancements.AdvancementManager]: Parsing error loading built-in advancement minecraft:recipes/redstone/trapdoor
+[16:18:22] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTableManager]: Couldn't find resource table minecraft:dungeonloot
+[16:18:23] [Server thread/ERROR] [net.minecraft.advancements.AdvancementManager]: Parsing error loading built-in advancement minecraft:recipes/redstone/trapdoor
 com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:171) ~[l$a.class:?]
 	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:147) ~[l$a.class:?]
@@ -755,35 +755,68 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:270) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
-[15:11:33] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 583 advancements
-[15:11:33] [Server thread/INFO] [Meson]: true
-[15:11:33] [Server thread/INFO] [dsurround]: Creating STANDARD weather generator for dimension [overworld]
-[15:11:33] [Server thread/INFO] [FML]: Loading dimension -1 (Venezuela) (net.minecraft.server.dedicated.DedicatedServer@6be9acfc)
-[15:11:33] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
-[15:11:33] [Server thread/INFO] [FML]: Loading dimension 1 (Venezuela) (net.minecraft.server.dedicated.DedicatedServer@6be9acfc)
-[15:11:33] [Server thread/INFO] [dsurround]: Creating NULL weather generator for dimension [the_end]
-[15:11:33] [Server thread/INFO] [FML]: Loading dimension 111 (Venezuela) (net.minecraft.server.dedicated.DedicatedServer@6be9acfc)
-[15:11:33] [Server thread/INFO] [dsurround]: Creating STANDARD weather generator for dimension [lostcities]
-[15:11:33] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
-[15:11:33] [Server thread/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.world.chunk.BlockStateContainer.func_186018_a
-[15:11:34] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 46%
-[15:11:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (2.980s)! For help, type "help" or "?"
-[15:11:35] [Server thread/INFO] [FML]: Unloading dimension -1
-[15:11:35] [Server thread/INFO] [FML]: Unloading dimension 1
-[15:11:35] [Server thread/INFO] [FML]: Unloading dimension 111
-[15:17:31] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
-[15:17:31] [Netty Epoll Server IO #2/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraftforge.fml.common.network.ByteBufUtils.writeUTF8String
-[15:17:31] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 41 mods : minecraft@1.12.2,nocubessrparmory@3.0.0,usefulbackpacks@1.5.4.85,ctgui@1.0.0,crafttweakerjei@2.0.3,cgm@0.15.3,baubles@1.5.2,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.16.1.1013,futuremc@0.2.6,spartanshields@1.5.5,xaerominimap@25.0.0,mcp@9.42,nocubessrpnests@3.0.0,securitycraft@v1.9.12,artifacts@1.12.2-1.2.4,sereneseasons@1.2.18,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,apexguns@0.1.2,forgelin@1.8.4,foamfixcore@7.7.4,srparasites@1.9.21,uteamcore@2.2.5.339,spartanweaponry@1.6.0,xaerominimap_core@1.12.2-1.0,waila@1.8.26,foamfix@@VERSION@,tlauncher_custom_cape_skin@1.4,traverse@1.6.0,crafttweaker@4.1.20,charm@1.4,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,playerrevive@1.0,orelib@3.6.0.1,dsurround@@VERSION@,overlast@0.0.2,duneons@1.4
-[15:17:34] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[15:17:34] [Server thread/INFO] [FML]: Loading dimension -1 (Venezuela) (net.minecraft.server.dedicated.DedicatedServer@6be9acfc)
-[15:17:34] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
-[15:17:34] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: hevilfren123[/127.0.0.1:47916] logged in with entity id 317 at (-169.38373759408125, 67.0, 159.44110881906244)
-[15:17:34] [Server thread/INFO] [dsurround]: Player [hevilfren123] connected with Dynamic Surroundings @VERSION@
-[15:17:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: hevilfren123 joined the game
-[15:17:34] [Server thread/INFO] [Waila]: Player EntityPlayerMP['hevilfren123'/317, l='Venezuela', x=-169.38, y=67.00, z=159.44] connected. Sending ping
-[15:19:37] [Server thread/INFO] [Meson ASM]: Transforming ISpecialArmor
-[15:19:37] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [applyArmor, applyArmor, ] Descriptor (Lnet/minecraft/entity/EntityLivingBase;Lnet/minecraft/util/NonNullList;Lnet/minecraft/util/DamageSource;D)F / (Lvp;Lfi;Lur;D)F)
-[15:19:37] [Server thread/INFO] [Meson ASM]: Located method, patching...
-[15:19:37] [Server thread/INFO] [Meson ASM]: Located target ALOAD 1
-[15:19:37] [Server thread/INFO] [Meson ASM]: Patch result: true
-[15:31:55] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: hevilfren123 moved wrongly!
+[16:18:23] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 583 advancements
+[16:18:23] [Server thread/INFO] [Meson]: true
+[16:18:23] [Server thread/INFO] [dsurround]: Creating STANDARD weather generator for dimension [overworld]
+[16:18:23] [Server thread/INFO] [FML]: Loading dimension -1 (Venezuela) (net.minecraft.server.dedicated.DedicatedServer@ea1f9f9)
+[16:18:23] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[16:18:23] [Server thread/INFO] [FML]: Loading dimension 1 (Venezuela) (net.minecraft.server.dedicated.DedicatedServer@ea1f9f9)
+[16:18:23] [Server thread/INFO] [dsurround]: Creating NULL weather generator for dimension [the_end]
+[16:18:23] [Server thread/INFO] [FML]: Loading dimension 111 (Venezuela) (net.minecraft.server.dedicated.DedicatedServer@ea1f9f9)
+[16:18:23] [Server thread/INFO] [dsurround]: Creating STANDARD weather generator for dimension [lostcities]
+[16:18:23] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[16:18:23] [Server thread/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.world.chunk.BlockStateContainer.func_186018_a
+[16:18:24] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 75%
+[16:18:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (2.473s)! For help, type "help" or "?"
+[16:18:24] [Server thread/INFO] [FML]: Unloading dimension -1
+[16:18:24] [Server thread/INFO] [FML]: Unloading dimension 1
+[16:18:24] [Server thread/INFO] [FML]: Unloading dimension 111
+[16:19:20] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[16:19:20] [Netty Epoll Server IO #3/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraftforge.fml.common.network.ByteBufUtils.writeUTF8String
+[16:19:20] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 41 mods : minecraft@1.12.2,nocubessrparmory@3.0.0,usefulbackpacks@1.5.4.85,ctgui@1.0.0,crafttweakerjei@2.0.3,cgm@0.15.3,baubles@1.5.2,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.16.1.1013,futuremc@0.2.6,spartanshields@1.5.5,xaerominimap@25.0.0,mcp@9.42,nocubessrpnests@3.0.0,securitycraft@v1.9.12,artifacts@1.12.2-1.2.4,sereneseasons@1.2.18,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,apexguns@0.1.2,forgelin@1.8.4,foamfixcore@7.7.4,srparasites@1.9.21,uteamcore@2.2.5.339,spartanweaponry@1.6.0,xaerominimap_core@1.12.2-1.0,waila@1.8.26,foamfix@@VERSION@,tlauncher_custom_cape_skin@1.4,traverse@1.6.0,crafttweaker@4.1.20,charm@1.4,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,playerrevive@1.0,orelib@3.6.0.1,dsurround@@VERSION@,overlast@0.0.2,duneons@1.4
+[16:19:22] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[16:19:22] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: XDD[/127.0.0.1:34192] logged in with entity id 313 at (122.69999998807907, 21.0, 71.30000001192093)
+[16:19:22] [Server thread/INFO] [dsurround]: Player [XDD] connected with Dynamic Surroundings @VERSION@
+[16:19:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XDD joined the game
+[16:19:22] [Server thread/INFO] [Waila]: Player EntityPlayerMP['XDD'/313, l='Venezuela', x=122.70, y=21.00, z=71.30] connected. Sending ping
+[16:19:42] [Netty Epoll Server IO #4/INFO] [FML]: Client protocol version 2
+[16:19:42] [Netty Epoll Server IO #4/INFO] [FML]: Client attempting to join with 41 mods : minecraft@1.12.2,nocubessrparmory@3.0.0,usefulbackpacks@1.5.4.85,ctgui@1.0.0,crafttweakerjei@2.0.3,cgm@0.15.3,baubles@1.5.2,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.16.1.1013,futuremc@0.2.6,spartanshields@1.5.5,xaerominimap@25.0.0,mcp@9.42,nocubessrpnests@3.0.0,securitycraft@v1.9.12,artifacts@1.12.2-1.2.4,sereneseasons@1.2.18,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,apexguns@0.1.2,forgelin@1.8.4,foamfixcore@7.7.4,srparasites@1.9.21,uteamcore@2.2.5.339,spartanweaponry@1.6.0,xaerominimap_core@1.12.2-1.0,waila@1.8.26,foamfix@@VERSION@,tlauncher_custom_cape_skin@1.4,traverse@1.6.0,crafttweaker@4.1.20,charm@1.4,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,playerrevive@1.0,orelib@3.6.0.1,dsurround@@VERSION@,overlast@0.0.2,duneons@1.4
+[16:19:44] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[16:19:44] [Server thread/INFO] [FML]: Loading dimension -1 (Venezuela) (net.minecraft.server.dedicated.DedicatedServer@ea1f9f9)
+[16:19:44] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[16:19:44] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: hevilfren123[/127.0.0.1:47142] logged in with entity id 5992 at (-104.20852942730505, 59.0, 87.30000001192091)
+[16:19:44] [Server thread/INFO] [dsurround]: Player [hevilfren123] connected with Dynamic Surroundings @VERSION@
+[16:19:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: hevilfren123 joined the game
+[16:19:44] [Server thread/INFO] [Waila]: Player EntityPlayerMP['hevilfren123'/5992, l='Venezuela', x=-104.21, y=59.00, z=87.30] connected. Sending ping
+[16:20:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XDD has made the advancement [We Need to Go Deeper]
+[16:20:43] [Server thread/INFO] [Meson ASM]: Transforming ISpecialArmor
+[16:20:43] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [applyArmor, applyArmor, ] Descriptor (Lnet/minecraft/entity/EntityLivingBase;Lnet/minecraft/util/NonNullList;Lnet/minecraft/util/DamageSource;D)F / (Lvp;Lfi;Lur;D)F)
+[16:20:43] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[16:20:43] [Server thread/INFO] [Meson ASM]: Located target ALOAD 1
+[16:20:43] [Server thread/INFO] [Meson ASM]: Patch result: true
+[16:21:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XDD has made the advancement [A Terrible Fortress]
+[16:21:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> hijo de
+[16:21:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> rompo?
+[16:21:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> si
+[16:21:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> me cague todo
+[16:22:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> la que esquive jsjsjd
+[16:22:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> tenes un yunque tu ?
+[16:22:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> no
+[16:23:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> bueno me quedo con el espacio lleno no tener la mochila mal ahi
+[16:23:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> checate esto
+[16:23:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XDD has made the advancement [Into Fire]
+[16:23:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> xdddddd
+[16:23:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> ya no hay nada
+[16:24:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> tengo 9 diamantes
+[16:24:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> yo 4
+[16:24:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> xaqui
+[16:25:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> onde
+[16:25:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> no habia nada solo whithers
+[16:25:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> y el portal?
+[16:26:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> ni idea
+[16:26:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> no guardaste las corde?
+[16:26:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> deavo
+[16:26:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> nop
+[16:26:23] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: XDD moved wrongly!
+[16:26:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> ya valimos
+[16:27:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> per
