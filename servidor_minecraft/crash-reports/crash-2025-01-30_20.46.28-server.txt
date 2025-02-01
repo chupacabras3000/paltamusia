@@ -1,0 +1,105 @@
+---- Minecraft Crash Report ----
+
+WARNING: coremods are present:
+  CharmLoadingPlugin (Charm-1.12.2-1.4.1.jar)
+  FutureMC (Future-MC-0.2.20.jar)
+  SecurityCraftLoadingPlugin ([1.12.2] SecurityCraft v1.9.12.jar)
+  CreativePatchingLoader (CreativeCore_v1.10.71_mc1.12.2.jar)
+  Do not report to Forge! (If you haven't disabled the FoamFix coremod, try disabling it in the config! Note that this bit of text will still appear.) (foamfix-0.10.15-1.12.2.jar)
+  ForgelinPlugin (Forgelin-1.8.4.jar)
+  SpartanWeaponry-MixinLoader (SpartanWeaponry-1.12.2-1.6.0.jar)
+  TransformLoader (DynamicSurroundings-1.12.2-3.6.3.jar)
+  ObfuscatePlugin (obfuscate-0.4.2-1.12.2.jar)
+Contact their authors BEFORE contacting forge
+
+// Daisy, daisy...
+
+Time: 1/30/25 8:46 PM
+Description: Exception in server tick loop
+
+Duplicate Mods:
+	voxelmap : /workspaces/MI12.2/servidor_minecraft/./mods/forgemod_VoxelMap-1.9.28_for_1.12.2.jar
+	voxelmap : /workspaces/MI12.2/servidor_minecraft/./mods/forgemod_VoxelMap-1.9.28_for_1.12.2.jar
+
+net.minecraftforge.fml.common.DuplicateModsFoundException
+	at net.minecraftforge.fml.common.Loader.identifyDuplicates(Loader.java:466)
+	at net.minecraftforge.fml.common.Loader.identifyMods(Loader.java:428)
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:568)
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:98)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:333)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486)
+	at java.lang.Thread.run(Thread.java:750)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Linux (amd64) version 6.5.0-1025-azure
+	Java Version: 1.8.0_432, Private Build
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Private Build
+	Memory: 1473141360 bytes (1404 MB) / 2287992832 bytes (2182 MB) up to 11453595648 bytes (10923 MB)
+	JVM Flags: 2 total; -Xms2G -Xmx12G
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP 9.42 Powered by Forge 14.23.5.2860 31 mods loaded, 0 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+
+	| State | ID                 | Version      | Source                                      | Signature                                |
+	|:----- |:------------------ |:------------ |:------------------------------------------- |:---------------------------------------- |
+	|       | minecraft          | 1.12.2       | minecraft.jar                               | None                                     |
+	|       | mcp                | 9.42         | minecraft.jar                               | None                                     |
+	|       | FML                | 8.0.99.99    | forge-1.12.2-14.23.5.2860.jar               | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	|       | forge              | 14.23.5.2860 | forge-1.12.2-14.23.5.2860.jar               | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	|       | creativecoredummy  | 1.0.0        | minecraft.jar                               | None                                     |
+	|       | foamfixcore        | 7.7.4        | minecraft.jar                               | None                                     |
+	|       | obfuscate          | 0.4.2        | minecraft.jar                               | None                                     |
+	|       | voxelmap           | 1.9.25       | forgemod_VoxelMap-1.9.28_for_1.12.2.jar     | None                                     |
+	|       | securitycraft      | v1.9.12      | [1.12.2] SecurityCraft v1.9.12.jar          | None                                     |
+	|       | charm              | 1.4          | Charm-1.12.2-1.4.1.jar                      | None                                     |
+	|       | creativecore       | 1.10.0       | CreativeCore_v1.10.71_mc1.12.2.jar          | None                                     |
+	|       | dsurround          | @VERSION@    | DynamicSurroundings-1.12.2-3.6.3.jar        | None                                     |
+	|       | foamfix            | @VERSION@    | foamfix-0.10.15-1.12.2.jar                  | None                                     |
+	|       | forgelin           | 1.8.4        | Forgelin-1.8.4.jar                          | None                                     |
+	|       | voxelmap           | 1.9.25       | forgemod_VoxelMap-1.9.28_for_1.12.2.jar     | None                                     |
+	|       | futuremc           | 0.2.6        | Future-MC-0.2.20.jar                        | None                                     |
+	|       | cgm                | 0.15.3       | guns-0.15.3-1.12.2.jar                      | None                                     |
+	|       | jei                | 4.16.1.1013  | jei_1.12.2-4.16.1.1013.jar                  | None                                     |
+	|       | lostcities         | 2.0.22       | lostcities-1.12-2.0.22.jar                  | None                                     |
+	|       | nocubessrparmory   | 3.0.0        | NoCubes_SRP_Combat_Addon_3.0.0.jar          | None                                     |
+	|       | nocubessrpnests    | 3.0.0        | NoCubes_SRP_Nests_Addon_3.0.0.jar           | None                                     |
+	|       | nocubessrpsurvival | 3.0.0        | NoCubes_SRP_Survival_Addon_3.0.0.jar        | None                                     |
+	|       | overlast           | 0.0.2        | OverLast-Lite-1.12.2-0.05(for SRPV1920).jar | None                                     |
+	|       | playerrevive       | 1.0          | PlayerRevive_v1.2.40_mc1.12.2.jar           | None                                     |
+	|       | spartanshields     | 1.5.5        | SpartanShields-1.12.2-1.5.5.jar             | None                                     |
+	|       | spartanweaponry    | 1.6.0        | SpartanWeaponry-1.12.2-1.6.0.jar            | None                                     |
+	|       | srparasites        | 1.9.21       | SRParasites-1.12.2v1.9.21.jar               | None                                     |
+	|       | traverse           | 1.6.0        | Traverse-1.12.2-1.6.0-69.jar                | None                                     |
+	|       | uteamcore          | 2.2.5.339    | u_team_core-forge-1.12.2-2.2.5.339.jar      | None                                     |
+	|       | usefulbackpacks    | 1.5.4.85     | useful_backpacks-1.12.2-1.5.4.85.jar        | None                                     |
+	|       | orelib             | 3.6.0.1      | OreLib-1.12.2-3.6.0.1.jar                   | None                                     |
+
+	Loaded coremods (and transformers): 
+CharmLoadingPlugin (Charm-1.12.2-1.4.1.jar)
+  svenhjol.charm.base.CharmClassTransformer
+FutureMC (Future-MC-0.2.20.jar)
+  thedarkcolour.futuremc.asm.CoreTransformer
+SecurityCraftLoadingPlugin ([1.12.2] SecurityCraft v1.9.12.jar)
+  
+CreativePatchingLoader (CreativeCore_v1.10.71_mc1.12.2.jar)
+  
+Do not report to Forge! (If you haven't disabled the FoamFix coremod, try disabling it in the config! Note that this bit of text will still appear.) (foamfix-0.10.15-1.12.2.jar)
+  pl.asie.foamfix.coremod.FoamFixTransformer
+ForgelinPlugin (Forgelin-1.8.4.jar)
+  
+SpartanWeaponry-MixinLoader (SpartanWeaponry-1.12.2-1.6.0.jar)
+  
+TransformLoader (DynamicSurroundings-1.12.2-3.6.3.jar)
+  
+ObfuscatePlugin (obfuscate-0.4.2-1.12.2.jar)
+  com.mrcrayfish.obfuscate.asm.ObfuscateTransformer
+	Profiler Position: N/A (disabled)
+	Is Modded: Definitely; Server brand changed to 'fml,forge'
+	Type: Dedicated Server (map_server.txt)
