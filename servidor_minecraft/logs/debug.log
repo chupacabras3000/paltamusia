@@ -20603,3 +20603,108 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [14:48:18] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
 [14:48:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
 [14:49:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[14:49:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[14:50:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[14:51:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[14:52:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: hevilfren123 has made the advancement [A Terrible Fortress]
+[14:52:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[14:52:17] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-13, 17] in dimension -1 (the_nether) while populating chunk [-13, 18], causing cascading worldgen lag.
+[14:52:17] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[14:52:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: hevilfren123 has made the advancement [Into Fire]
+[14:52:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[14:53:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[14:54:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[14:55:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[14:55:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[14:56:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[14:57:00] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-14, 19] in dimension -1 (the_nether) while populating chunk [-14, 20], causing cascading worldgen lag.
+[14:57:00] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[14:57:00] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-15, 19] in dimension -1 (the_nether) while populating chunk [-14, 19], causing cascading worldgen lag.
+[14:57:00] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[14:57:00] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-14, 18] in dimension -1 (the_nether) while populating chunk [-14, 19], causing cascading worldgen lag.
+[14:57:00] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[14:57:00] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-15, 18] in dimension -1 (the_nether) while populating chunk [-14, 19], causing cascading worldgen lag.
+[14:57:00] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[14:57:00] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-16, 18] in dimension -1 (the_nether) while populating chunk [-15, 18], causing cascading worldgen lag.
+[14:57:00] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[14:57:00] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-16, 17] in dimension -1 (the_nether) while populating chunk [-15, 18], causing cascading worldgen lag.
+[14:57:00] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[14:57:16] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-14, 13] in dimension -1 (the_nether) while populating chunk [-14, 14], causing cascading worldgen lag.
+[14:57:16] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[14:57:16] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-14, 16] in dimension -1 (the_nether) while populating chunk [-14, 17], causing cascading worldgen lag.
+[14:57:16] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[14:57:16] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-14, 15] in dimension -1 (the_nether) while populating chunk [-14, 17], causing cascading worldgen lag.
+[14:57:16] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[14:57:16] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-15, 16] in dimension -1 (the_nether) while populating chunk [-15, 17], causing cascading worldgen lag.
+[14:57:16] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[14:57:16] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-15, 15] in dimension -1 (the_nether) while populating chunk [-15, 16], causing cascading worldgen lag.
+[14:57:16] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[14:57:16] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-15, 14] in dimension -1 (the_nether) while populating chunk [-15, 15], causing cascading worldgen lag.
+[14:57:16] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[14:57:16] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-15, 13] in dimension -1 (the_nether) while populating chunk [-15, 14], causing cascading worldgen lag.
+[14:57:16] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[14:57:16] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-16, 16] in dimension -1 (the_nether) while populating chunk [-15, 17], causing cascading worldgen lag.
+[14:57:16] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[14:57:16] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-15, 0] in dimension -1 (the_nether) while populating chunk [-14, 0], causing cascading worldgen lag.
+[14:57:16] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[14:57:16] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-15, 3] in dimension -1 (the_nether) while populating chunk [-14, 4], causing cascading worldgen lag.
+[14:57:16] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[14:57:16] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-14, 7] in dimension -1 (the_nether) while populating chunk [-14, 8], causing cascading worldgen lag.
+[14:57:16] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[14:57:16] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-14, 6] in dimension -1 (the_nether) while populating chunk [-14, 8], causing cascading worldgen lag.
+[14:57:16] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[14:57:16] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-15, 8] in dimension -1 (the_nether) while populating chunk [-14, 9], causing cascading worldgen lag.
+[14:57:16] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[14:57:16] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-15, 7] in dimension -1 (the_nether) while populating chunk [-15, 8], causing cascading worldgen lag.
+[14:57:16] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[14:57:17] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-15, 6] in dimension -1 (the_nether) while populating chunk [-15, 7], causing cascading worldgen lag.
+[14:57:17] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[14:57:17] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-16, 19] in dimension -1 (the_nether) while populating chunk [-15, 20], causing cascading worldgen lag.
+[14:57:17] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[14:57:17] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-17, 18] in dimension -1 (the_nether) while populating chunk [-16, 19], causing cascading worldgen lag.
+[14:57:17] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[14:57:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[14:58:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[14:58:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela
+[14:58:58] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[14:58:58] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[14:58:59] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[14:59:01] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[14:59:01] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[14:59:01] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[14:59:01] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[14:59:01] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[14:59:01] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[14:59:01] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[14:59:01] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[14:59:01] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[14:59:01] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[14:59:01] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[14:59:01] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[14:59:01] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[14:59:01] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[14:59:01] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[14:59:01] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[14:59:01] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[14:59:01] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[14:59:03] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[14:59:03] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[14:59:03] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[14:59:03] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[14:59:03] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[14:59:03] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[14:59:03] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[14:59:03] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[14:59:03] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[14:59:03] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[14:59:03] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[14:59:03] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[14:59:03] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[14:59:03] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[14:59:03] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[14:59:03] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[14:59:04] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[14:59:04] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[14:59:05] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[14:59:05] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[14:59:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Venezuela

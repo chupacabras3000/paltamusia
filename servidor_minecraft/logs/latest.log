@@ -840,3 +840,5 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [14:47:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: hevilfren123 has made the advancement [We Need to Go Deeper]
 [14:47:43] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2148ms behind, skipping 42 tick(s)
 [14:47:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: hevilfren123 moved too quickly! -117.80000001192096,23.5,-64.48916714802462
+[14:52:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: hevilfren123 has made the advancement [A Terrible Fortress]
+[14:52:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: hevilfren123 has made the advancement [Into Fire]
