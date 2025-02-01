@@ -798,3 +798,45 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [14:38:43] [Server thread/INFO] [Waila]: Player EntityPlayerMP['XDD'/50995, l='Venezuela', x=128.64, y=21.00, z=76.29] connected. Sending ping
 [14:38:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> epa nada mal
 [14:39:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <hevilfren123> a?
+[14:39:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDD> vine a verificar que si funcionara mis objetos y todo lo guardado
+[14:39:43] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: XDD lost connection: Timed out
+[14:39:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XDD left the game
+[14:41:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: hevilfren123 has made the advancement [Diamonds!]
+[14:43:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: hevilfren123 has made the advancement [A Seedy Place]
+[14:47:41] [Server thread/INFO] [FML]: Loading dimension -1 (Venezuela) (net.minecraft.server.dedicated.DedicatedServer@4f6215bc)
+[14:47:41] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[14:47:41] [Server thread/WARN] [FML]: Future MC loaded a new chunk [-9, -3] in dimension -1 (the_nether) while populating chunk [-8, -2], causing cascading worldgen lag.
+[14:47:41] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:47:41] [Server thread/WARN] [FML]: Future MC loaded a new chunk [-9, 2] in dimension -1 (the_nether) while populating chunk [-8, 3], causing cascading worldgen lag.
+[14:47:41] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:47:41] [Server thread/WARN] [FML]: Future MC loaded a new chunk [-9, 1] in dimension -1 (the_nether) while populating chunk [-9, 2], causing cascading worldgen lag.
+[14:47:41] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:47:41] [Server thread/WARN] [FML]: Future MC loaded a new chunk [-9, 0] in dimension -1 (the_nether) while populating chunk [-9, 2], causing cascading worldgen lag.
+[14:47:41] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:47:41] [Server thread/WARN] [FML]: Future MC loaded a new chunk [-9, 3] in dimension -1 (the_nether) while populating chunk [-8, 4], causing cascading worldgen lag.
+[14:47:41] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:47:41] [Server thread/WARN] [FML]: Future MC loaded a new chunk [-9, 6] in dimension -1 (the_nether) while populating chunk [-8, 7], causing cascading worldgen lag.
+[14:47:41] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:47:41] [Server thread/WARN] [FML]: Future MC loaded a new chunk [-9, 5] in dimension -1 (the_nether) while populating chunk [-9, 6], causing cascading worldgen lag.
+[14:47:41] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:47:41] [Server thread/WARN] [FML]: Future MC loaded a new chunk [-9, 4] in dimension -1 (the_nether) while populating chunk [-9, 6], causing cascading worldgen lag.
+[14:47:41] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:47:42] [Server thread/WARN] [FML]: Future MC loaded a new chunk [-6, -9] in dimension -1 (the_nether) while populating chunk [-5, -8], causing cascading worldgen lag.
+[14:47:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:47:42] [Server thread/WARN] [FML]: Future MC loaded a new chunk [-7, -9] in dimension -1 (the_nether) while populating chunk [-6, -9], causing cascading worldgen lag.
+[14:47:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:47:42] [Server thread/WARN] [FML]: Future MC loaded a new chunk [-8, -9] in dimension -1 (the_nether) while populating chunk [-6, -9], causing cascading worldgen lag.
+[14:47:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:47:42] [Server thread/WARN] [FML]: Future MC loaded a new chunk [-9, -9] in dimension -1 (the_nether) while populating chunk [-8, -9], causing cascading worldgen lag.
+[14:47:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:47:42] [Server thread/WARN] [FML]: Future MC loaded a new chunk [-7, -10] in dimension -1 (the_nether) while populating chunk [-6, -9], causing cascading worldgen lag.
+[14:47:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:47:42] [Server thread/WARN] [FML]: Future MC loaded a new chunk [-5, -9] in dimension -1 (the_nether) while populating chunk [-4, -8], causing cascading worldgen lag.
+[14:47:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:47:42] [Server thread/WARN] [FML]: Future MC loaded a new chunk [-6, -10] in dimension -1 (the_nether) while populating chunk [-5, -9], causing cascading worldgen lag.
+[14:47:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:47:43] [Server thread/WARN] [FML]: Future MC loaded a new chunk [4, -9] in dimension -1 (the_nether) while populating chunk [5, -8], causing cascading worldgen lag.
+[14:47:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[14:47:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: hevilfren123 has made the advancement [We Need to Go Deeper]
+[14:47:43] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2148ms behind, skipping 42 tick(s)
+[14:47:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: hevilfren123 moved too quickly! -117.80000001192096,23.5,-64.48916714802462
